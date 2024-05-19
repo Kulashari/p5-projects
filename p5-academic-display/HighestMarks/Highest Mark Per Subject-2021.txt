@@ -1,0 +1,225 @@
+Dimichino, Simone, 	9,	98,	Gr. 9 Drama
+Moschetta,	Zara,	9,	98,	Gr. 9 Drama
+Lee Wo,	Mikaela,	9,	98,	Gr. 9 Drama
+Morgan,	Tyrese,		9,	98,	Gr. 9 Drama
+Onuorah,	Dora,	9,	98,	Gr. 9 Drama
+Nguyen,	Raidon,		9,	98,	Gr. 9 Drama
+Petrak,	Amanda,		9,	98,	Gr. 9 Music
+Roy, Chowdhury	Isha,	9,	96,	Gr. 9 Music - Advanced
+Cardozo, Breanna,	9,	96,	Gr. 9 Music - Advanced
+Pokharel, Natasha,	9,	100,	Gr. 9 Intro. to Information Technology
+Lee Wo,	Mikaela,	9,	99,	Gr. 9 Geography of Canada
+Mukhtar, Salwa,		9,	99,	Gr. 9 Geography of Canada
+Choudhry, Humza,	9,	99,	Gr. 9 Geography of Canada
+Diab,	Nicholas,	9,	99,	Gr. 9 Geography of Canada
+Roy Chowdhury,	Isha,	9,	99,	Gr. 9 Geography of Canada
+Figueiredo, Roberto,	9,	97,	Gr. 9 Geography of Canada - Applied
+Belz,	Matthew,	9,	80,	Gr. 9 Geography of Canada - Loc. Dev.
+Onuorah, Dora,		9,	98,	Gr. 9 English - Academic
+Mubsher, Imaan,		9,	93,	Gr. 9 English - Locally Developed
+Pez, Matthew,		9,	93,	Gr. 9 English - Locally Developed
+Fagan,	Ella,		9,	93,	Gr. 9 Gr. 9 English - Applied
+Dominguez, Lopez Juan,	9,	75,	Gr. 9 ESL Beginning Comm. in English
+Baaj,	Abdul Kader,	9,	78,	Gr. 9 ESL Study Skills in English
+Onuorah, Dora,		9,	99,	Gr. 9 Core French - Academic
+LeBrun-Kamerling, Desmond, 9,	99,	Gr. 9 Core French - Academic
+Colonna, Julianna,	9,	80,	Gr. 9 Core French - Open
+Diab, Nicholas,		9,	100,	Gr. 9 Core French - Applied
+Ngo, Calvin,		9,	98,	Gr. 9 Learning Strategies
+Kulashari, Sarthak,	9,	99,	Gr. 9 Rel. Ed. Discipleship and Culture
+Rana,	Alishba,	9,	99,	Gr. 9 Rel. Ed. Discipleship and Culture
+Roy Chowdhury,	Isha,	9,	99,	Gr. 9 Rel. Ed. Discipleship and Culture
+Trotto,	Isabella,	9,	97,	Gr. 9 Mathematics - Locally Developed
+Ballen,	Matthew,	9,	94,	Gr. 9 Foundations of Mathematics
+Dimichino, Simone,	9,	100,	Gr. 9 Principles of Mathematics 
+Onuorah, Dora,		9,	100,	Gr. 9 Principles of Mathematics
+Saliba,	Karina,		9,	100,	Gr. 9 Principles of Mathematics 
+Bal,	Armaan,		9,	100,	Gr. 9 Principles of Mathematics 
+Theocharis, Zoe,	9,	98,	Gr. 9 Expressing Aboriginal Cultures
+Bal,	Armaan,		9,	98,	Gr. 9 Court Sports
+Karthikeyan, Priyanka,	9,	98,	Gr. 9 Court Sports
+Correale, Olivia,	9,	97,	Gr. 9 Field, Foot and Ball Sports
+Hipolito, Noah,		9,	96,	Gr. 9 Net Sports
+Lee Wo,	Mikaela,	9,	100,	Gr. 9 Healthy Active Living Education 
+Laughton, Matthew,	9,	98,	Gr. 9 Healthy Active Living Education
+Tran, Benjamin,		9,	98,	Gr. 9 Healthy Active Living Education 
+Huynh,	Justin,		9,	98,	Gr. 9 Healthy Active Living Education 
+Sanker,	Varunika,	9,	98,	Gr. 9 Science - Academic
+Singh,	Ghazala,	9,	98,	Gr. 9 Science - Academic
+Teixeira, Julia,	9,	98,	Gr. 9 Science - Academic
+Chaudhary, Muhammad Umar, 9,	98,	Gr. 9 Science - Academic
+Baranowski, Sophia,	9,	87,	Gr. 9 Science - Locally Developed
+Fagan, Ella,		9,	90,	Gr. 9 Science - Applied
+Podobnik, Milena,	9,	91,	Gr. 9 Exploring Technologies
+Bandhu,	Nikhil,		10,	94,	Gr. 10 Dramatic Arts
+Gueco,	Alanette,	10,	98,	Gr. 10 Dramatic Arts
+Kolakowski, Adriana,	10,	98,	Gr. 10 Dramatic Arts
+Kochhar, Chirag,	10,	98,	Gr. 10 Guitar Music
+White,	Lucas,		10,	98,	Gr. 10 Guitar Music
+Noboa, Nieto Kevin,	10,	98,	Gr. 10 Guitar Music
+Mascarenhas, Eleanor,	10,	99,	Gr. 10 Music - Beginner
+Cruickshank, Robert,	10,	98,	Gr. 10 Media Arts
+Calading, Queene Rose,	10,	98,	Gr. 10 Media Arts
+Cortes,	Luciano,	10,	98,	Gr. 10 Media Arts
+Mohiuddin, Areebah,	10,	98,	Gr. 10 Media Arts
+Sucre Barreto, Eduardo,	10,	98,	Gr. 10 Media Arts
+Ramlogan, Sonia,	10,	98,	Gr. 10 Media Arts
+Mann,	Azaad,		10,	98,	Gr. 10 Media Arts
+Merritt, Samantha,	10,	98,	Gr. 10 Media Arts
+Tasnim,	Zareen,		10,	98,	Gr. 10 Media Arts
+Goel,	Nehal,		10,	98,	Gr. 10 Media Arts
+Rathakrishnan,	Saran,	10,	98,	Gr. 10 Media Arts
+Bonnell,	Maya,	10,	98,	Gr. 10 Media Arts
+Kwan,	Mikayla,	10,	98,	Gr. 10 Media Arts
+Pham,	Valerie,	10,	98,	Gr. 10 Media Arts
+Tschinkel, Carys,	10,	99,	Gr. 10 Visual Arts
+Matheson, Emily,	10,	99,	Gr. 10 Visual Arts
+Soodan,	Raehet,		10,	95,	Gr. 10 Visual Arts - Beginner
+Khanna,	Janya,		10,	99,	Gr. 10 Visual Arts - Crafts
+Pacheco, Savannah,	10,	99,	Gr. 10 Visual Arts - Crafts
+Tran,	Katelyn,	10,	99,	Gr. 10 Visual Arts - Crafts
+Batra,	Simran,		10,	100,	Gr. 10 Introduction of Business
+Khanna,	Janya,		10,	100,	Gr. 10 Introduction of Business
+Simpson, Abbey,		10,	100,	Gr. 10 Introduction of Business
+Di Franco, Filippo,	10,	100,	Gr. 10 Introduction of Business
+Khan, Shehrbano,	10,	100,	Gr. 10 Canadian History 20th cent-Academic
+Arshad,	Mohammad,	10,	80,	Gr. 10 Canadian History-Locally Developed
+Lamm,	Matthias,	10,	95,	Gr. 10 Canadian History 20th cent-Applied
+Guerrero, Megan,	10,	100,	Gr. 10 Civics (0.5 credit)
+Rigakos, Steve,		10,	100,	Gr. 10 Civics (0.5 credit)
+Jasek,	Amelia,		10,	100,	Gr. 10 Civics (0.5 credit)
+Mohiuddin, Areebah,	10,	100,	Gr. 10 Civics (0.5 credit)
+Jose  Kochupurackal, Jerin, 10,	100,	Gr. 10 Civics (0.5 credit)
+Coppolella, Serena,	10,	98,	Gr. 10 English - Academic
+Noman,	Mehwish,	10,	98,	Gr. 10 English - Academic
+Arshad,	Mohammad,	10,	90,	Gr. 10 English - Locally Developed
+Tomas,	John,		10,	95,	Gr. 10 English - Applied
+Lukaszczyk, Barbara,	10,	98,	Gr. 10 Core French
+Kolakowski, Adriana,	10,	98,	Gr. 10 Core French
+Pacheco, Savannah,	10,	98,	Gr. 10 Core French
+Ratnasekera, Anisha,	10,	98,	Gr. 10 Core French
+Guzzo-Mintzer,	Skye,	10,	98,	Gr. 10 Core French
+Rathakrishnan,	Saran,	10,	100,	Gr. 10 Career Studies
+Rathan,	Ragavi,		10,	100,	Gr. 10 Career Studies
+Noman,	Mehwish,	10,	100,	Gr. 10 Career Studies
+Lycoyrentzos,	Despina,10,	100,	Gr. 10 Career Studies
+Bath,	Shivtaz,	10,	100,	Gr. 10 Career Studies
+Perugini, Lauren,	10,	100,	Gr. 10 Career Studies
+Rigakos, Steve,		10,	100,	Gr. 10 Career Studies
+Guzzo-Mintzer, Skye,	10,	100,	Gr. 10 Career Studies
+Talotta, Olivia,	10,	98,	Gr. 10 Learning Strategies
+Arshad,	Mohammad,	10,	80,	Gr. 10 Learning Strategies
+Ratnasekera, Anisha,	10,	100,	Gr. 10 Religious Ed. - Christ and Culture
+Guzzo-Mintzer,	Skye,	10,	100,	Gr. 10 Religious Ed. - Christ and Culture
+Sharma,	Maanya,		10,	98,	Gr. 10 Rel. Christ and Culture-Art Focus
+Morgan,	Winston Jr.,	10,	99,	Gr. 10 Introduction to Computer Studies
+Pinto,	Jaden,		10,	96,	Gr. 10 Mathematics - Locally Developed
+Kritzky, Cole,		10,	97,	Gr. 10 Foundations of Mathematics-Applied
+Perugini, Lauren,	10,	100,	Gr. 10 Principles of Mathematics-Academic
+Castada Santos,	Dante,	10,	97,	Gr. 10 Court Sports
+Simpson, Abbey,		10,	97,	Gr. 10 Field, Foot and Ball Sports
+Perugini, Lauren,	10,	98,	Gr. 10 Court Sports
+Pacheco, Savannah,	10,	98,	Gr. 10 Healthy Active Living Education
+Pacheco, Chantal,	10,	98,	Gr. 10 Healthy Active Living Education
+Rigakos, Steve, 	10,	97,	Gr. 10 Healthy Active Living Education 
+Wilson,	Andrew,		10,	97,	Gr. 10 Healthy Active Living Education 
+Tschinkel, Carys,	10,	100,	Gr. 10 Science - Academic
+Pinto, Jaden,		10,	74,	Gr. 10 Science - Locally Developed
+Awa, Sydney,		10,	91,	Gr. 10 Science - Applied
+Di Franco, Filippo,	10,	97,	Gr. 10 Construction Technology
+Di Franco, Filippo,	10,	98,	Gr. 10 Exploring Computer Technology
+Sharma,	Meshak,		10,	98,	Gr. 10 Exploring Computer Technology
+Petrovic, Ana,		10,	99,	Gr. 10 Hospitality and Tourism Tech.
+Bosnjak, Julianna,	10,	99,	Gr. 10 Hospitality and Tourism Tech.
+Guzzo-Mintzer,	Skye,	10,	99,	Gr. 10 Hospitality and Tourism Tech.
+Coppolella, Serena,	10,	99,	Gr. 10 Hospitality and Tourism Tech.
+Morgado, Sarah,		10,	100,	Gr. 10 Communications Technology
+Ryan,	Kristina,	10,	100,	Gr. 10 Communications Technology
+Batra,	Simran,		10,	100,	Gr. 10 Communications Technology
+Lukaszczyk, Barbara,	10,	93,	Gr. 10 Hairstyling and Aesthetics
+Khan, Shehrbano,	10,	93,	Gr. 10 Hairstyling and Aesthetics
+Jones,	Emily,		11,	95,	Gr. 11 Dramatic Arts
+Zizek,	Marcus,		11,	95,	Gr. 11 Dramatic Arts
+Cho,	Daniel,		11,	99,	Gr. 11 Guitar Music
+Wong,	Joanne,		11,	99,	Gr. 11 Music
+Pancham, Emma,		11,	100,	Gr. 11 Media Arts
+Tarar,	Hamayal,	11,	100,	Gr. 11 Media Arts
+Mangilaya, Jolina,	11,	100,	Gr. 11 Media Arts
+Khan, Muhammad Fawzan,	11,	100,	Gr. 11 Media Arts
+Meksavanh, Ivory,	11,	96,	Gr. 11 Visual Arts
+Valentini, Isabella,	11,	99,	Gr. 11 Intro to Financial Accounting
+Alves,	Maya,		11,	99,	Gr. 11 Introduction to Marketing
+Tavares, Braeden,	11,	99,	Gr. 11 Introduction to Marketing
+Naseer,	Sarim,		11,	98,	Gr. 11 Info and Comm Technology
+Tramonte, Ava,		11,	100,	Gr. 11 Individual and the Economy
+De Souza, Giselle,	11,	96,	Gr. 11 Understanding Canadian Law
+Mark, Jessica,		11,	96,	Gr. 11 Understanding Canadian Law
+Diab, Catherine,	11,	96,	Gr. 11 Understanding Canadian Law
+Murtaza, Fawwaz,	11,	88,	Gr. 11 English - College
+Nguyen,	Johnny,		11,	88,	Gr. 11 English - College
+Pinto,	Aaron,		11,	88,	Gr. 11 English - College
+Camara,	Evan,		11,	88,	Gr. 11 English - College
+Aji,	Aron,		11,	88,	Gr. 11 English - College
+Kannathasan, Nesha,	11,	99,	Gr. 11 Co-operative Education
+Belavic, Jakob,		11,	97,	Gr. 11 English - university
+Agius,	William Jonathan, 11,	97,	Gr. 11 English - university
+Forester, Emily,	11,	97,	Gr. 11 English - university
+Dinh,	Mai,		11,	86,	Gr. 11 ESL English in Daily Life
+Leung,	Jenna,		11,	99,	Gr. 11 Co-operative Education
+Navarrete, Kenneth,	11,	99,	Gr. 11 Co-operative Education
+Kooner,	Sonia,		11,	98,	Gr. 11 RELIGION/LEADERSHIP
+Maione,	Sabrina,	11,	95,	Gr. 11 Designing Your Future
+Parmar,	Piya,		11,	95,	Gr. 11 Designing Your Future
+De Mesa, Maria,		11,	95,	Gr. 11 Designing Your Future
+Panthee, Shreeya,	11,	100,	Gr. 11 Dynamics of Human Rel
+Estacio, Juliane,	11,	95,	Gr. 11 Parenting
+Miles,	Karina,		11,	95,	Gr. 11 World Rel. Beliefs and Daily Life
+Camara,	Evan,		11,	95,	Gr. 11 World Rel. Beliefs and Daily Life
+Wong,	Nicholas,	11,	98,	World Rel. Beliefs, Issues, Traditions
+De Mesa, Maria,		11,	98,	World Rel. Beliefs, Issues, Traditions
+Boerkamp, Stephanie,	11,	99,	World Rel. Beliefs, Issues, Traditions
+Simas,	Jordan,		11,	98,	Intro to Anthropology,Psychology,Sociology
+Nguyen,	Johnny, 	11,	97,	Gr. 11 Introduction to Computer Programming
+Bilal,	Mohammad,	11,	99,	Gr. 11 INTRODUCTION TO COMPUTER SCIENCE 
+Aji,	Aron,		11,	99,	Gr. 11 Foundations for College Mathematics
+Seixo,	Adrianna,	11,	98,	Gr. 11 Functions
+Bernardo, Jonathan,	11,	98,	Gr. 11 Functions
+Dela Cruz, Jasmine,	11,	98,	Gr. 11 Functions
+Obodoechina, Chesca,	11,	98,	Gr. 11 Functions
+Wasey,	Zeeshan,	11,	98,	Gr. 11 Functions
+Valentini, Isabella,	11,	100,	Gr. 11 Functions and Relations
+Aziz,	Shayaan,	11,	100,	Gr. 11 Functions and Relations
+Stenta,	Danijela,	11,	90,	Gr. 11 Mathematics for Everyday Life
+Belavic, Jakob,		11,	99,	Gr. 11 Personal and Fitness Activities
+Dela Cruz, John Abel,	11,	99,	Gr. 11 Personal and Fitness Activities
+Dela Cruz, John Abel,	11,	98,	Gr. 11 Court Sports
+De Lorenzi, Andrew,	11,	97,	Gr. 11 Field, Foot and Ball Sports
+Marchesan, Frank,	11,	97,	Gr. 11 Field, Foot and Ball Sports
+Kumaraguru, Rahul,	11,	96,	Gr. 11 Net Sports
+Diab, Catherine,	11,	100,	Gr. 11 Rhythm and Movement
+Hilario, Marcus,	11,	99,	Gr. 11 Healthy Active Living Education
+Iannarella, Matteo,	11,	90,	Gr. 11 Biology - College
+Barboza, Jessica,	11,	98,	Gr. 11 Biology - University
+Bilal,	Mohammad,	11,	100,	Gr. 11 Chemistry - University
+Castrucci, Justin,	11,	99,	Gr. 11 Physics - University
+Zhang, Marc,		11,	99,	Gr. 11 Physics - University
+Nayak,	Karan,		11,	99,	Gr. 11 Physics - University
+Cermeno, Meireles Nohely, 11,	96,	Gr. 11 Construction Technology
+Bilal,	Mohammad,	11,	98,	Gr. 11 Computer Engineering Tech Robotics
+Beattie-Stephan, Caroline, 11,	97,	Gr. 11 Hospitality and Tourism: Baking
+Gentile, Alyssia,	11,	97,	Gr. 11 Hospitality and Tourism: Baking
+Vukovic, Bianca,	11,	95,	Gr. 11 Hospitality and Tourism
+Harrison, Keenan,	11,	95,	Gr. 11 Hospitality and Tourism
+Ramos,	Tayah,		11,	95,	Gr. 11 Hospitality and Tourism
+Townley, Aidan,		11,	95,	Gr. 11 Hospitality and Tourism
+Zizek,	Marcus,		11,	95,	Gr. 11 Hospitality and Tourism
+Albaz,	Nada,		11,	95,	Gr. 11 Hospitality and Tourism
+Sajimon Nair, Anshika,	11,	95,	Gr. 11 Hospitality and Tourism
+Stenta,	Danijela,	11,	95,	Gr. 11 Hospitality and Tourism
+Kannathasan, Nesha,	11,	95,	Gr. 11 Hospitality and Tourism
+Nazario, Hunter,	11,	95,	Gr. 11 Hospitality and Tourism
+Mangilaya, Jolina,	11,	100,	Gr. 11 Communication Technology
+Singh,	Juana,		11,	100,	Gr. 11 Communication Technology
+Selwa,	Emma,		11,	97,	Gr. 11 CUSTOM WOODWORKING
+Maione, Sabrina,	11,	93,	Gr. 11 Hairstyling and Aesthetics
+Yakimishyn, Tessa,	11,	93,	Gr. 11 Hairstyling and Aesthetics

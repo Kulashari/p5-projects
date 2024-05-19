@@ -1,0 +1,29 @@
+Diab, Catherine, 9, 2019, Top Student
+Wong, Joanne, 9, 2019, Top Student
+Lopes Linares, Gabriela, 9, 2019, Top Student
+Tramonte, Sofia, 10, 2019, Top Student
+Santos, Julia, 10, 2019, Top Student
+Bernardez, Isabella, 10, 2019, Top Student
+Castro, Andrew, 11, 2019, Top Student
+Ansari, Asma, 11, 2019, Top Student
+Fernandes, Keith, 11, 2019, Top Student
+Williams, Raquel, 9, 2019, Spirit Award
+Cinapri, Simone, 10, 2019, Spirit Award
+MacNeil, Madison, 10, 2019, Spirit Award
+Adam, Shania, 11, 2019, Spirit Award
+Castrucci, Chloe, 12, 2019, Spirit Award
+Netto, Shania, 0, 2019, Mother Theresa Award
+Tramonte, Sonia, 0, 2019, Joe Hugel Award
+Nguyen, Nhi, 0, 2019, Eco Club Award
+Pines, Mitchell, 0, 2019, Edward King Memorial Award
+Magdic, Philip, 0, 2019, Shawn D. MacIntosh Award
+Goertz, Samantha, 0, 2019, Jim Dutfield Memorial Award 
+Di Franco, Massimo, 0, 2019, Jacor Marketing Award
+Castrucci, Chloe, 0, 2019, Chaplaincy Award
+Saqib, Fatima, 0, 2019, Archbishop Oscar Romero Award
+Herter, Madaleine, 0, 2019, Thomas J. Reilly Scholarship
+Gander, Brooklyn, 0, 2019, Knights of Columbus Award
+Masoud, Mina, 0, 2019, Vice Principal^s Award
+Perera, Damien, 0, 2019, Principal^s Award
+Perera, Michael, 0, 2019, Governor General^s Award
+Diab, Joshua, 0, 2019, Lieut. Governor^s Community

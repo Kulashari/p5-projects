@@ -1,0 +1,30 @@
+Bernandez, Isabella, 9, 2018, Top Student
+Tran, Alicia, 9, 2018, Top Student
+Tramonte, Sofia, 9, 2018, Top Student
+Castro, Andrew, 10, 2018, Top Student
+King, Melissa, 10, 2018, Top Student
+Fernandes, Natalie, 10, 2018, Top Student
+Masoud, Mina, 11, 2018, Top Student
+Diab, Joshua, 11, 2018, Top Student
+Perera, Damien, 11, 2018, Top Student
+Panicker, Kajal, 11, 2018, Top Student
+Abraham, Liza, 9, 2018, Spirit Award
+Adam, Shania, 10, 2018, Spirit Award
+Francis, Ryan, 10, 2018, Spirit Award
+Castruci, Chloe, 11, 2018, Spirit Award
+Fernandes, Matthew, 0, 2018, Spirit Award
+Gander, Brooklyn, 0, 2018, Mother Theresa Award
+Castro, Andrew, 0, 2018, Joe Hugel Award
+Abraham, Liza, 0, 2018, Eco Club Award
+Colona, Eric, 0, 2018, Edward King Memorial Award
+D'Andrea, Fabiano, 0, 2018, Shawn D. MacIntosh Award
+Kerfoot, Maja, 0, 2018, Jim Dutfield Memorial Award 
+Tan, Cadence, 0, 2018, Jacor Marketing Award
+Vukovic, Tatjana, 0, 2018, Chaplaincy Award
+Silva, Nicole, 0, 2018, Archbishop Oscar Romero Award
+Habib, John, 0, 2018, Thomas J. Reilly Scholarship
+Garces, Jose Betanour, 0, 2018, Knights of Columbus Award
+Edsid, Michael, 0, 2018, Vice Principal^s Award
+Habib, John, 0, 2018, Principal^s Award
+Edsid, Michael, 0, 2018, Governor General^s Award
+Kusznirewicz, Antoni, 0, 2018, Lieut. Governor^s Community

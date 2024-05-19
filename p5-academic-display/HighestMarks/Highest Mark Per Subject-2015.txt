@@ -1,0 +1,182 @@
+Desai,	Khooshbu,	9,	93,	Gr. 9: Dramatic Arts
+Soares,	Sarah,	10,	97,	Gr. 10: Dramatic Arts
+Ninguem De Melo,	Melanie,	10,	90,	Gr. 10: Dramatic Arts
+Coutts-Perez,	Kieran,	10,	90,	Gr. 10: Dramatic Arts
+de Guzman,	Alexander,	11,	99,	Gr. 11: Dramatic Arts
+Wong,	Kevin,	10,	98,	Gr. 10: Guitar Music
+Pham,	Stephen,	9,	94,	Gr. 9: Music
+Podobnik,	Juliana,	9,	97,	Gr. 9: Music
+Edsid,	Michael,	9,	97,	Gr. 9: Music
+Chow,	Andrew,	10,	93,	Gr. 10: Music
+Reio,	Daniel,	10,	94,	Gr. 10: Music
+Barrete-Tsaur,	Alexandra,	11,	99,	Gr. 11: Music
+Mapeso,	Angelica,	11,	96,	Gr. 10: Media Arts
+Opinaldo,	Johannse,	11,	97,	Gr. 11: Media Arts
+Marinaro,	Julia,	10,	93,	Gr. 10: Dance
+Gucciardi,	Christina,	11,	99,	Gr. 11: Dance
+Dela Cruz,	Armin,	9,	100,	Gr.9: Visual Arts-Comprehensive
+Pham,	Hoai Truc,	10,	97,	Gr. 10: Visual Arts
+Makhlouf,	Youstina,	10,	97,	Gr. 10: Visual Arts
+Perez,	Maria,	10,	94,	Gr. 10: Visual Arts
+Espanol,	Nathaniel,	10,	94,	Gr. 10: Visual Arts
+Benedicto,	Jeannie,	11,	94,	Gr. 11: Visual Arts
+Mapeso,	Angelica,	11,	94,	Gr. 11: Visual Arts
+Eisa,	George,	11,	100,	Gr.11: Intro. to Fin. Accounting
+Chow,	Joshua,	10,	96,	Gr.10: Introduction of Business
+Nguyen,	Andrew,	11,	96,	Gr.11: Introduction to Marketing
+Tandingan,	Andrea Hazel,	11,	96,	Gr. 11: Info. and Comm.Tech.
+George,	Rachel,	9,	95,	Gr.9: Intro. to Information Tech.
+Cristiano,	Alexandra,	9,	95,	Gr.9: Intro. to Information Tech.
+Singh,	Mahip,	9,	95,	Gr.9: Intro. to Information Tech.
+Edsid,	Michael,	9,	98,	Gr.9 Academic:Geography of Canada
+Chong,	Ashley,	9,	91,	Gr.9 Applied:Geography of Canada
+Abdallah,	Mark,	10,	95,	Gr.10 Academic: Canadian History
+Balan,	Jacob,	11,	83,	Gr. 10 Loc.Dev.: Canadian History
+Gaudio,	Joseph,	10,	98,	Gr. 10 Applied: Canadian History
+Ferrara,	Rebecca,	10,	99,	Gr. 10: Civics 
+Tsang,	Maggie,	10,	99,	Gr. 10: Civics 
+Bhasin,	Richa,	10,	99,	Gr. 10: Civics 
+de Guzman,	Alexander,	11,	93,	Gr. 11: World History 
+Jacob,	Tom,	11,	96,	Gr.11:The Individual and the Economy
+Akhtar,	Muhammad,	11,	96,	Gr.11:The Individual-the Economy
+Kumar,	Simran,	11,	85,	Gr. 11 : Understanding Canadian Law
+White,	Alana,	11,	96,	Gr. 11: Understanding Canadian Law
+Dela Cruz,	Armin,	9,	96,	Gr. 9 Academic: English
+Budgell,	Olivia,	9,	82,	Gr. 9 Applied: English
+Momin,	Zayaan,	9,	82,	Gr. 9: Applied: English
+Tsang,	Maggie,	10,	94,	Gr. 10  Academic: English
+Bryla,	Aidan,	10,	74,	Gr. 10 Locally Dev.: English
+Haider,	Alizeh,	10,	87,	Gr. 10 Applied: English
+Papa,	Alexa,	11,	93,	Gr. 11 College: English
+Allaudin,	Uzma,	11,	80,	Gr. 11 Workplace: English
+Zseder,	Rebecca,	11,	94,	Gr. 11 University: English
+Dedrick,	Oneshia,	11,	91,	Gr.11:Presentation-Speaking Skills
+Gamboa Salas,	John,	9,	83,	E.L.L.:Beginning Comm. in English
+Al-Doury,	Mais,	9,	91,	E.L.L.:English in Daily Life
+Abdulmunem,	Mohammed,	12,	96,	E.L.L.:English for School and Work
+Abdulmunem,	Mohammed,	12,	90,	E.L.L.:Study Skills in English
+Sangil,	Francine,	10,	86,	E.L.L.: Bridge to English
+Mandia,	Christina,	9,	98,	Gr. 9 Academic: French
+Edsid,	Michael,	9,	98,	Gr. 9 Academic: French
+Kyeremateng,	Akosua,	9,	94,	Gr. 9 Applied: French
+D'Souza,	Aden,	9,	94,	Gr. 9 Applied: French
+Pagliaro,	Sara,	10,	93,	Gr. 10 Academic: French
+Poon,	Megan,	10,	93,	Gr. 10 Academic: French
+Abdallah,	Mark,	10,	93,	Gr. 10 Academic: French
+Soares,	Sarah,	10,	93,	Gr. 10 Academic: French
+Kumkum,	Danielle,	11,	97,	Gr. 11 University:French
+Busuttil,	Jasmine,	10,	100,	Gr. 10: Career Studies
+Yip,	Megan,	10,	100,	Gr. 10: Career Studies
+Virdee,	Ranjit,	9,	94,	Gr. 9: Learning Strategies
+Dykeman,	Kelsey,	9,	94,	Gr. 9: Learning Strategies
+Forrest,	Aliyah,	9,	94,	Gr. 9: Learning Strategies
+Pilehvari,	Parsa,	10,	98,	Gr. 10: Learning Strategies
+Cariaso,	Alexander,	10,	73,	Gr. 10: Learning Strategies
+Spratt,	Rebecca,	11,	92,	Gr.11:Leadership and Peer Support
+Nagarajah,	Andrew,	11,	92,	Gr.11:Leadership and Peer Support
+Habib,	Mark,	11,	98,	Gr. 11: Designing Your Future
+Kumar,	Simran,	11,	98,	Gr. 11: Designing Your Future
+Diep,	Justin,	11,	98,	Gr. 11: Designing Your Future
+Wasey,	Adeeba,	9,	86,	Gr. 9: Food and Nutrition
+Colonna,	Kaitlyn,	11,	93,	Gr. 11: Parenting
+Edsid,	Michael,	9,	97,	Gr. 9: Religious Education
+Bhasin,	Richa,	10,	97,	Gr. 10: Religious Education
+Quan,	Yi Wei,	11,	91,	Gr. 11: World Religions
+Abdu,	Sarah,	11,	96,	Gr.11: World Religions
+Eisa,	George,	11,	96,	Gr.11: World Religions
+de Guzman,	Alexander,	11,	96,	Gr.11: World Religions
+Christou,	Alexia,	11,	82,	Gr. 11:Intro. to Anthropology
+Abdu,	Sarah,	11,	93,	Gr. 11:Introd. to Anthropology
+Shahzad,	Muhammad Ali,	10,	96,	Gr.10:Intro. to Computer Studies
+Eisa,	George,	11,	100,	Gr.11: Intro. to Computer Studies
+Araujo Casais,	Liam,	9,	90,	Gr.9 Locally Dev.: Mathematics
+Mrzljak,	Michael,	10,	96,	Gr.10 Locally Dev: Mathematics
+Escate,	David,	11,	90,	Gr.11 Col.: Math. of Personal Finance
+Santos,	Tiffany,	11,	90,	Gr.11 Col.:Math. of Personal Finance
+McDonald,	Rachel,	11,	92,	Gr.11 Math: Functions-Applications
+Nweisser,	Lina,	11,	92,	Gr.11 Math: Functions-Applications
+Rawlins,	Devonte,	11,	92,	Gr. 1 Math:Functions-Applications
+Eisa,	George,	11,	100,	Gr.11 Univ. Math:Functions-Relations
+Kmiec,	Conrad,	12,	83,	Gr.11 Workplace:Math. Everyday Life
+Budgell,	Olivia,	9,	91,	Gr.9 Applied:Foundations of Math
+Teodoro,	Ariana,	9,	91,	Gr.9 Applied:Foundations of Math
+Zaharatos,	Evangelos,	9,	91,	Gr.9 Applied:Foundations of Math
+Abdulmunem,	Mohammed,	12,	99,	Gr.10 Applied:Foundations of Math
+Kerfoot,	Maya,	9,	99,	Gr.9 Academic:Principles of Math
+Edsid,	Michael,	9,	99,	Gr.9 Academic:Principles of Math
+Abdulmunem,	Mohammed,	12,	100,	Gr.10 Academic:Principles of Math
+Chow,	Andrew,	10,	100,	Gr.10 Academic:Principles of Math
+Lee,	Justin,	11,	95,	Gr.11 Male: Fitness Activities
+Lukomski,	Vladimir,	9,	90,	Gr.9:Large Group Act.Basketball
+Griffin,	Jalen,	9,	90,	Gr.9:Large Group Act.-Basketball
+Lewin,	Jaden,	9,	90,	Gr.9: Large Group Act.-Basketball
+David,	Jalen,	9,	90,	Gr.9: Large Group Act.-Basketball
+Barrett,	Rowan,	9,	90,	Gr.9: Large Group Act.-Basketball
+Farmer-Valente,	James,	9,	95,	Gr.9: Large Group Act.-Hockey
+Emeny,	Lucas,	9,	95,	Gr.9: Large Group Act.-Hockey
+Tesolin,	Marcel,	9,	97,	Gr.9: Large Group Act.-Soccer
+Malik,	Zaid,	10,	95,	Gr.10: Large Group Act.-Basketball
+Kerfoot,	Maya,	9,	90,	Gr.10: Large Group Act.-Hockey
+DiGirolamo,	Jessica,	10,	90,	Gr.10: Large Group Act.-Hockey
+Levy,	Dawson,	10,	90,	Gr.10: Large Group Act.-Hockey
+Wong,	Kevin,	10,	90,	Gr.10: Large Group Act.-Hockey
+Sullivan,	Olivia,	10,	91,	Gr.10: Large Group Act.-Soccer
+Marcelic,	Lucas,	10,	91,	Gr.10: Large Group Act.-Soccer
+Morgan,	Alexia,	11,	96,	Gr.11: Large Group Act.-Basketball
+Pereira,	Daniel,	11,	95,	Gr.11: Large Group Act.-Hockey
+Colonna,	Kaitlyn,	11,	95,	Gr.11: Large Group Act.-Hockey
+Scamurra,	Mark,	11,	95,	Gr.11: Large Group Act.-Hockey
+Spratt,	Rebecca,	11,	92,	Gr.11: Large Group Act.-Soccer
+Rankin,	Jemiela,	11,	94,	Gr.11: Rhythm and Movement
+Thurner,	Emily,	11,	94,	Gr.11: Rhythm and Movement
+Banovic,	Nicolle,	11,	94,	Gr. 11: Rhythm and Movement
+Banovic,	Emma,	9,	96,	Gr.9: Healthy Active Living Ed.
+Kusznirewicz,	Antoni,	9,	98,	Gr.9: Healthy Active Living Ed.
+Fatica,	Arianna,	10,	95,	Gr.10: Healthy Active Living Ed.
+Song,	Jordan,	10,	95,	Gr. 10: Healthy Active Living Ed.
+Colonna,	Kaitlyn,	11,	95,	Gr.11:Healthy Active Living Ed.
+Ginocchi,	Gianni,	11,	95,	Gr.11:Healthy Active Living Education
+Serrenho,	Daniela,	11,	95,	Gr.11:Healthy Active Living Ed.
+Malandrino,	Andrew,	11,	95,	Gr.11:Healthy Active Living Ed.
+Papa,	Alexa,	11,	85,	Gr. 11 College: Biology
+Kumaraguru,	Keshini,	11,	95,	Gr. 11 University: Biology
+Kupferschmidt,	Raquelle,	11,	95,	Gr. 11 University: Biology
+Diep,	Justin,	11,	95,	Gr. 11 University: Biology
+Barrete-Tsaur,	Alexandra,	11,	95,	Gr. 11 University: Biology
+Eisa,	George,	11,	100,	Gr. 11 University: Chemistry
+Javaid,	Muskaan,	9,	98,	Gr. 9 Academic: Science
+Lee,	Kearra,	9,	94,	Gr. 9 Locally Dev.: Science
+Vukovic,	Tatijana,	9,	97,	Gr. 9 Applied: Science
+Shahzad,	Muhammad Ali,	10,	97,	Gr. 10 Applied: Science
+Ardila,	Javier,	10,	88,	Gr. 10 Locally Dev.: Science
+Abdulmunem,	Mohammed,	12,	96,	Gr. 10 Applied: Science
+Eisa,	George,	11,	99,	Gr. 11 University: Physics
+Goncalves,	Michael,	10,	92,	Gr. 10: Construction Technology
+Catalli,	Isabel,	10,	92,	Gr. 10: Construction Technology
+Harvey-Ramgadoo,	Tenisha,	11,	90,	Gr.11 College:Construction Tech.
+Malandrino,	Andrew,	11,	90,	Gr.11 College:Construction Tech.
+Shahzad,	Muhammad Ali,	10,	94,	Gr. 10: Exploring Computer Tech.
+Eisa,	George,	11,	97,	Gr. 11: Computer Engineering Tech.
+Busuttil,	Jasmine,	10,	97,	Gr.10: Hospitality-Tourism Tech.
+Kupferschmidt,	Raquelle,	11,	91,	Gr.11 College: Hospitality-Tourism
+Makhlouf,	Youstina,	10,	88,	Gr. 10: Comm. Technology
+de Guzman,	Alexander,	11,	97,	Gr. 11: Comm. Technology
+Belanger,	Brock,	9,	96,	Gr. 9: Exploring Technologies
+Gill,	Jaskiran,	9,	96,	Gr. 9: Exploring Technologies
+Bhuiyan,	Ahnaf,	9,	96,	Gr. 9: Exploring Technologies
+Da Silva Casais,	Nicholas,	9,	96,	Gr. 9: Exploring Technologies
+Murdoch,	Sara,	9,	96,	Gr. 9: Exploring Technologies
+Kusznirewicz,	Antoni,	9,	96,	Gr. 9: Exploring Technologies
+Silvestre,	Nicholas,	9,	96,	Gr. 9: Exploring Technologies
+Lucido,	Michelangelo,	9,	96,	Gr. 9: Exploring Technologies
+Hawker,	Britney,	9,	96,	Gr. 9: Exploring Technologies
+Ilnicki,	Emil,	10,	90,	Gr.10: Transportation Technology
+Puchalski,	Jake,	10,	90,	Gr.10: Transportation Technology
+Gentile,	Eric,	10,	90,	Gr.10: Transportation Technology
+Tam,	Ray,	10,	90,	Gr.10: Transportation Technology
+Fitzner,	Brandon,	11,	89,	Gr.11 College: Transportation Tech.
+Shum,	Douglas,	11,	86,	Gr. 11: Transportation Tech.
+Dela Cruz,	Arkhe,	11,	91,	Gr. 11: Custom Woodworking
+Lamaj,	Adelaide,	10,	92,	Gr. 10: Hairstyling and Aesthetics
+Banovic,	Nicolle,	11,	93,	Gr.11: Hairstyling/Aesthetics
+Nwakoby,	Akachukwu,	11,	95,	Gr. 11: Cooperative Education

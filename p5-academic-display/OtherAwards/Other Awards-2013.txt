@@ -1,0 +1,18 @@
+Barrete-Tsaur,Alexandra, 9, 2013, Top Student
+Nagarajah,Andrew, 9, 2013, Top Student
+Nguyen,Andrew, 9, 2013, Top Student
+Gill,Bobby, 10, 2013, Top Student
+Keswani,Nikhil, 10, 2013, Top Student
+Pozzobon,Brittney, 10, 2013, Top Student
+Wang,Jason, 10, 2013, Top Student
+Carnide,Joshua, 11, 2013, Top Student
+Xu,Eva, 11, 2013, Top Student
+McGrail,Erin, 11, 2013, Top Student
+Nagarajah, Andrew, 9, 2013, Spirit Award
+Dias, Nicole, 10, 2013, Spirit Award
+Ozamiz, Joey,  11, 2013, Spirit Award
+Rosteck, Alexandra, 0, 2013, Mother Theresa Award
+Pozzobon, Brittney, 0, 2013, Joe Hugel Award
+McDonald, Curtis, 0, 2013, Governor General Award
+McDonald, Alexandra, 0, 2013, Governor General Award
+Martini, Elysia, 0, 2013, Governor General Award

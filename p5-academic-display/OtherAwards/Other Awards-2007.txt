@@ -1,0 +1,15 @@
+Mankarious, Mary, 9, 2007, Top Student
+Pizzolon, Christina, 9, 2007, Top Student
+Wong, Melissa, 9, 2007, Top Student
+Burke, Tangi, 10, 2007, Top Student
+Lam, Kevin, 10, 2007, Top Student
+Pantaleo, Adam, 10, 2007, Top Student
+Abuwalla, Zarir, 11, 2007, Top Student
+Nguyen, Freddy, 11, 2007, Top Student
+Yau, Jessica, 11, 2007, Top Student
+Spratt, Laura, 9, 2007, Spirit Award
+Burke, Tangi, 10, 2007, Spirit Award
+Sheahan, Kimberly,  11, 2007, Spirit Award
+Bhamra, Kiran, 0, 2007, Mother Theresa Award
+Pantaleo, Adam, 0, 2007, Joe Hugel Award
+Nguyen, Bryan, 0, 2007, Governor General Award

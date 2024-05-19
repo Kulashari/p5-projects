@@ -1,0 +1,16 @@
+Panicker, Kajal, 9, 2016, Top Student
+De Vera, Reanna, 9, 2016, Top Student
+Fernandes, Julia, 9, 2016, Top Student
+Dela Cruz, Armin, 10, 2016, Top Student
+Edsid, Michael, 10, 2016, Top Student
+Podobnik, Juliana, 10, 2016, Top Student
+Catalig, Kyle, 11, 2016, Top Student
+Sihota, Davneet, 11, 2016, Top Student
+Stevens, Danielle, 11, 2016, Top Student
+Mitchell, Pines, 9, 2016, Spirit Award
+Cadance, Tan, 10, 2016, Spirit Award
+Chloe, D'Souza, 11, 2016, Spirit Award
+Joshua, DeJesus, 0, 2016, Mother Theresa Award
+Edsid, Michael, 0, 2016, Joe Hugel Award
+Pathan, Humza, 0, 2016, Eco Club Award
+Eisa, George, 0, 2016, Governor General Award

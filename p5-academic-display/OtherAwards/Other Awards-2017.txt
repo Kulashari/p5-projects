@@ -1,0 +1,16 @@
+Harwart, Helaena, 9, 2017, Top Student
+Castro, Andrew, 9, 2017, Top Student
+Fernandes, Natalie, 9, 2017, Top Student
+Perera, Damien, 10, 2017, Top Student
+Panicker, Kajal, 10, 2017, Top Student
+Uddin, Lamia, 10, 2017, Top Student
+Edsid, Michael, 11, 2017, Top Student
+Garces, Jose Betancur, 11, 2017, Top Student
+Brar, Sukham, 11, 2017, Top Student
+Netto, Shania, 9, 2017, Spirit Award
+D'Souza, Nikita, 10, 2017, Spirit Award
+Taras, Cap, 11, 2017, Spirit Award
+Da Costa, Matteo, 0, 2017, Mother Theresa Award
+Perera, Damien, 0, 2017, Joe Hugel Award
+Pathan, Humza, 0, 2017, Eco Club Award
+Catalig, Kyle, 0, 2017, Governor General Award

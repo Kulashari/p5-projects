@@ -1,0 +1,18 @@
+Gill,Bobby, 9, 2012, Top Student
+Pozzobon,Brittney, 9, 2012, Top Student
+Vukosa,Noah, 9, 2012, Top Student
+Carnide,Joshua, 10, 2012, Top Student
+Pereira,Marc, 10, 2012, Top Student
+Sabandal,Angelica, 10, 2012, Top Student
+Wang,Jason, 10, 2012, Top Student
+Lien,Amanda, 11, 2012, Top Student
+McDonald,Alexandra, 11, 2012, Top Student
+McDonald,Curtis, 11, 2012, Top Student
+Martini,Elysia, 11, 2012, Top Student
+Silang, Katherine, 9, 2012, Spirit Award
+Atutornu, Godfirst, 10, 2012, Spirit Award
+Martini, Elysia,  11, 2012, Spirit Award
+Ruiz Gutierrez,Luisa, 0, 2012, Mother Theresa Award
+Carnide, Joshua, 0, 2012, Joe Hugel Award
+Diep, Calvin, 0, 2012, Governor General Award
+Mousa, Ahmed, 0, 2012, Governor General Award

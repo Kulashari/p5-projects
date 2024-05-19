@@ -1,0 +1,150 @@
+Zseder,	Rebecca,	9,	99,	Gr. 9: Drama
+Bedasse,	Justine,	10,	93,	Gr. 10 Dramatic Arts
+Latham,	Megan,	10,	93,	Gr. 10: Dramatic Arts
+Dello Iacono,	Nicolas,	10,	93,	Gr. 10: Dramatic Arts
+Gill,	Lovleen,	11,	95,	Gr. 11: Dramatic Arts
+Barrete-Tsaur,	Alexandra,	9,	99,	Gr. 9: Music
+Kumaraguru,	Keshini,	9,	97,	Gr. 9: Music
+Leliever,	Matthew,	10,	94,	Gr. 10: Music
+Keswani,	Nikhil,	10,	98,	Gr. 10: Music
+Adjei-Asamoah,	Nathalie,	11,	97,	Gr. 11: Music
+Pozzobon,	Brittney,	10,	97,	Gr. 10: Dance
+Dela Cruz,	Arkhe,	9,	98,	Gr. 9:Visual Arts-Comprehensive
+Huh,	Christine,	10,	93,	Gr. 10: Visual Arts
+Silang,	Katherine,	10,	93,	Gr. 10: Visual Arts
+May,	Andrea,	10,	93,	Gr. 10: Visual Arts
+Mandia,	Sara,	10,	93,	Gr. 10: Visual Arts
+Manansala,	Megan,	10,	93,	Gr. 10: Visual Arts
+Ranger,	Adrienne,	10,	93,	Gr. 10: Visual Arts
+Kulchenko,	Milena,	10,	96,	Gr. 10: Visual Arts
+Kolaric,	Natasha,	10,	96,	Gr. 10: Visual Arts
+Espanol,	Arnel,	11,	95,	Gr. 11: Visual Arts
+Sabandal,	Angelica,	11,	98,	Gr.11:Intro. to Financial Accounting
+Keswani,	Nikhil,	10,	95,	Gr.10:Introduction of Business
+Pozzobon,	Brittney,	10,	95,	Gr.10:Introduction of Business
+Xu,	Zi ling,	11,	97,	Gr.11:Intro. to Entrep. Studies
+DiGirolamo,	Mathew,	11,	97,	Gr.11:Intro. to Entrep. Studies
+Adeyinfa,	Elizabeth,	11,	93,	Gr. 11: Intro. to Marketing
+Xu,	Zi ling,	11,	93,	Gr. 11: Intro. to Marketing
+DiGirolamo,	Mathew,	11,	94,	Gr. 11: Information and Comm.Tech.
+Gill,	Gary,	9,	96,	Gr. 9: Intro. to Information Tech.
+Eisa,	George,	9,	97,	Gr. 9: Geography of Canada
+Fuoco,	Vincenzo,	9,	92,	Gr. 9: Geography of Canada
+Jimenez,	Darren Troy,	9,	87,	Gr. 9: Geography of Canada
+Wang,	Xinyuan,	10,	98,	Gr. 10: Canadian History
+Colagiovanni,	Joseph,	10,	86,	Gr. 10: Canadian History 
+Ly,	Michelle,	10,	90,	Gr. 10: Canadian History 
+Pozzobon,	Brittney,	10,	97,	Gr. 10: Civics (0.5 credit)
+Iarusci,	Kristin,	11,	91,	Gr. 11: World History 
+Fasulo,	Tristan,	11,	64,	Gr.11:Understanding Canadian Law
+Magi,	Alessandro,	11,	91,	Gr.11:Understanding Canadian Law
+Odetoyinbo,	Morenike,	11,	91,	Gr.11:Understanding Canadian Law
+Duic,	Nicole,	11,	96,	Gr. 11: Media Studies
+de Guzman,	Alexander,	9,	94,	Gr. 9: English
+Zseder,	Rebecca,	9,	94,	Gr. 9: English
+Dalmacio,	Nadine,	9,	90,	Gr. 9: English
+Polo,	David,	9,	91,	Gr. 9: English
+Stevens,	Kristina,	10,	92,	Gr. 10: English
+De Albernaz,	Amanda,	10,	88,	Gr. 10: English
+Lyn,	Michael,	10,	88,	Gr. 10: English
+Malixi,	Ruby,	11,	93,	Gr. 11: English
+Saturno,	Alyssa,	11,	88,	Gr. 11: English
+Xu,	Zi ling,	11,	95,	Gr. 11: English
+Pantaleo,	Julia,	11,	95,	Gr. 11: English
+Pantaleo,	Julia,	11,	95,	Gr.11:Presentation-Speaking Skills
+Urrego Rodriguez,	Daniel,	12,	72,	Gr.12:Beginning Comm. in English
+Luu,	Ying Lam,	9,	81,	Gr.9: English in Daily Life
+De Silva,	Krisheni,	9,	85,	Gr.9: English for School-Work
+Figueroa,	Valentina,	10,	94,	Gr. 10: Study Skills in English
+Osorio Alvarez,	Santiago,	9,	81,	Gr. 9: Bridge to English
+Kumkum,	Danielle,	9,	98,	Gr. 9: Core French
+Amer,	Taimoor,	9,	94,	Gr. 9: Core French
+Gray,	Delnnis Yvonne,	9,	94,	Gr. 9: Core French
+Gill,	Karanpal,	10,	94,	Gr. 10: Core French
+Lapierre,	Asuka,	10,	98,	Gr. 10: Core French
+Gumapac,	Carolina,	10,	99,	Gr. 10: Career Studies
+Stevens,	Kristina,	10,	99,	Gr. 10: Career Studies
+Ramirez,	Sarah,	10,	99,	Gr. 10: Career Studies
+Pacaanas,	Mariane,	9,	96,	Gr. 9: Learning Strategies
+Giangioppo,	Sophia,	9,	84,	Gr. 9: Learning Strategies
+Holmes,	Lillie,	10,	91,	Gr. 10: Learning Strategies
+Padua,	Kianna,	10,	84,	Gr. 10: Learning Strategies
+Romana,	Savreet,	11,	70,	Gr. 11: Learning Strategies
+Vitorino,	Andrew,	10,	70,	Gr. 10: Learning Strategies
+Rosteck,	Alexandra,	11,	96,	Gr. 11: Leadership-Peer Support
+Orandi,	Dana,	11,	96,	Gr. 11: Leadership-Peer Support
+Chiofalo,	Samantha,	11,	96,	Gr. 11: Leadership-Peer Support
+Carnide,	Joshua,	11,	99,	Gr.11: Designing Your Future
+Pereira,	Marc,	11,	99,	Gr.11: Designing Your Future
+D'Amato,	Christina,	11,	93,	Gr. 11: Parenting
+D'Souza,	Atysha,	11,	93,	Gr. 11: Parenting
+Hunter,	Jason,	9,	99,	Gr. 9: Religious Education
+Pozzobon,	Brittney,	10,	98,	Gr. 10: Religious Education
+McGrail,	Erin,	11,	98,	Gr. 11: Religious Education
+D'Souza,	Atysha,	11,	99,	Gr. 11: Religious Education
+Sikand,	Jasmine,	11,	93,	Gr. 11: Introduction to Anthropology
+Ibrahim,	Shady,	10,	96,	Gr.10: Intro. to Computer Studies
+Pactol,	Yoshabel,	11,	92,	Gr.11: Intro. to Computer Studies
+Carnide,	Joshua,	11,	100,	Gr.11: Intro. to Computer Studies
+Garcia,	Jennifer,	10,	96,	Gr. 10: Spanish
+Escate,	David,	9,	91,	Gr. 9: Mathematics
+Elbourne,	Anthony,	9,	91,	Gr. 9: Mathematics
+De Albernaz,	Amanda,	10,	82,	Gr. 9: Mathematics
+Marshall,	Tristin,	11,	96,	Gr.11:Math of Personal Finance
+Mullings,	Andre,	11,	95,	Gr.11 Academic:Functions-Relations
+Giunta,	Erica,	11,	95,	Gr.11 Academic:Functions-Relations
+Carnide,	Joshua,	11,	99,	Gr. 11 Academic:Functions-Relations
+McCarthy,	Kristian,	11,	99,	Gr.11 Academic:Functions-Relations
+Conte,	Marco,	11,	90,	Gr.11:Math for Everyday Life
+Ahmed,	Rija,	9,	94,	Gr.9: Foundations of Math
+Freitas,	Chris,	9,	94,	Gr.9: Foundations of Math
+Chan,	Robin,	9,	94,	Gr.9: Foundations of Math
+Nagarajah,	Andrew,	9,	99,	Gr. 9: Principles of Math
+Kumaraguru,	Keshini,	9,	99,	Gr. 9: Principles of Math
+Kang,	Da En,	10,	99,	Gr. 10: Principles of Math
+Huh,	Christine,	10,	99,	Gr. 10: Principles of Math
+Wang,	Xinyuan,	10,	99,	Gr. 10: Principles of Math
+Candella,	Caitlin,	11,	96,	Gr.11: Personal-Fitness Activities
+Pereira,	Marc,	11,	98,	Gr.11: Personal-Fitness Activities
+Ferreira,	Brian,	11,	97,	Gr.11: Large Group Activities
+Morgan,	Alexia,	9,	96,	Gr.9: Healthy Active Living Ed.
+Millar,	Cassandra,	9,	96,	Gr.9: Healthy Active Living Ed.
+Dela Cruz,	Arkhe,	9,	97,	Gr.9: Healthy Active Living Ed.
+Pereira,	Daniel,	9,	97,	Gr.9: Healthy Active Living Ed.
+D'Souza,	Lynn,	10,	95,	Gr.10:Healthy Active Living Ed.
+Bubnich,	Daniel,	10,	97,	Gr.10:Healthy Active Living Ed.
+Perri,	Matthew,	11,	95,	Gr.11:Healthy Active Living Ed.
+Adeyinfa,	Elizabeth,	11,	95,	Gr.11:Healthy Active Living Ed.
+Duic,	Nicole,	11,	95,	Gr.11:Healthy Active Living Ed.
+D'Souza,	Sasha,	11,	94,	Gr. 11: Biology
+Tsang,	Jackie,	11,	97,	Gr. 11: Biology
+Pantaleo,	Julia,	11,	97,	Gr. 11: Biology
+McCarthy,	Kristian,	11,	97,	Gr. 11: Biology
+Xu,	Zi ling,	11,	98,	Gr. 11: Chemistry
+La,	Andy,	11,	98,	Gr. 11: Chemistry
+Nagarajah,	Andrew,	9,	98,	Gr. 9: Science
+Dalmacio,	Nadine,	9,	94,	Gr. 9: Science
+Baah-Acheamphour,	Osei,	9,	91,	 Gr. 9: Science
+Lawrence,	Sarah,	10,	91,	Gr. 10: Science
+Pozzobon,	Brittney,	10,	98,	Gr. 10: Science
+Chiofalo,	Christina,	12,	87,	Gr. 12: Science
+Nguyen,	Cindy Thi Hoang,	10,	91,	Gr. 10: Science
+McGrail,	Erin,	11,	96,	Gr. 11: Physics
+Kim,	Joseph,	11,	96,	Gr. 11: Physics
+McCarthy,	Kristian,	11,	96,	Gr. 11: Physics
+Carnide,	Joshua,	11,	96,	Gr. 11: Physics
+Kolaric,	Natasha,	10,	92,	Gr.10:Construction Technology
+Tran,	Guillaume,	10,	92,	Gr.10: Construction Technology
+Tombu,	Jean-Paul,	11,	98,	Gr.11: Construction Technology
+Keswani,	Nikhil,	10,	96,	Gr.10:Exploring Computer Tech.
+Marinaro,	Christian,	11,	92,	Gr.11:Comp. Engineering and Tech.
+Scott-Dejczak,	Alexander,	11,	92,	Gr.11:Comp. Engineering and Tech.
+Lien,	Andrew,	10,	91,	Gr.10: Hospitality-Tourism Technology
+Leung,	Steffi Wai Choeng,	11,	92,	Gr.11: Hospitality and Tourism
+Carnide,	Joshua,	11,	95,	Gr.11: Communication Technology
+Yan,	Jason,	9,	90,	Gr. 9: Exploring Computer Tech.
+Chowdhury,	Ameer,	10,	90,	Gr. 10: Transportation Technology
+Emery,	Mitchell,	11,	90,	Gr. 11: Transportation Technology
+Marino,	Kevin,	11,	98,	Gr. 11: Custom woodworking
+Dias,	Nicole,	10,	92,	Gr. 10: Hairstyling and Aesthetics
+Nguyen,	Jennifer,	11,	94,	Gr. 10: Hairstyling and Aesthetics

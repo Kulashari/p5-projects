@@ -1,0 +1,18 @@
+Carnide, Joshua, 9, 2011, Top Student
+Huang, Cherry, 9, 2011, Top Student
+Sabandal, Angelica, 9, 2011, Top Student
+Co, Kristyn, 10, 2011, Top Student
+Lien, Amanda, 10, 2011, Top Student
+Sabandal,Angelica, 10, 2011, Top Student
+Martini, Elysia, 10, 2011, Top Student
+Fernandes, Nathan, 11, 2011, Top Student
+Gorgi, Christine, 11, 2011, Top Student
+Mousa, Ahmad, 11, 2011, Top Student
+Clark, Carleigh, 9, 2011, Spirit Award
+Ezukuse, Vanisa, 10, 2011, Spirit Award
+Fernandes, Kevin,  11, 2011, Spirit Award
+Jesionowska, Marta, 0, 2011, Mother Theresa Award
+Bujas, Monica, 0, 2011, Mother Theresa Award
+Martini, Elysia, 0, 2011, Joe Hugel Award
+McDonald, Curtis, 0, 2011, Joe Hugel Award
+Eisa, Monique, 0, 2011, Governor General Award

@@ -1,0 +1,16 @@
+Lien, Amanda, 9, 2010, Top Student
+Martini, Elysia, 9, 2010, Top Student
+McDonald, Alexandra, 9, 2010, Top Student
+Gorgi, Christine, 10, 2010, Top Student
+Lien, Amanda, 10, 2010, Top Student
+Mousa, Ahmad, 10, 2010, Top Student
+Petrovic, Maja, 10, 2010, Top Student
+Eisa, Monique, 11, 2010, Top Student
+Joya, Cathleen, 11, 2010, Top Student
+Nefulda, John, 11, 2010, Top Student
+Ezukuse,Vanisa, 9, 2010, Spirit Award
+Passalacqua,David, 10, 2010, Spirit Award
+Holm,Haley,  11, 2010, Spirit Award
+Dow, Nicole, 0, 2010, Mother Theresa Award
+Mousa, Ahmad, 0, 2010, Joe Hugel Award
+Appasamy, Rachel, 0, 2010, Governor General Award

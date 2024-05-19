@@ -1,0 +1,18 @@
+Dela Cruz, Armin, 9, 2015, Top Student
+Edsid, Michael, 9, 2015, Top Student
+Mandia, Christina, 9, 2015, Top Student
+Bhasin, Richa, 10, 2015, Top Student
+Shahzad, Muhammad Ali, 10, 2015, Top Student
+Tsang, Maggie, 10, 2015, Top Student
+Akhtar, Hamza, 11, 2015, Top Student
+Diep, Justin, 11, 2015, Top Student
+Eisa, George, 11, 2015, Top Student
+Kumaraguru, Keshini, 11, 2015, Top Student
+Zseder, Rebecca, 11, 2015, Top Student
+Matthew, Fernanades, 9, 2015, Spirit Award
+De Jesus, Joshua, 10, 2015, Spirit Award
+Sunil, Reshma,  11, 2015, Spirit Award
+Attard, Lexi, 0, 2015, Mother Theresa Award
+Shahzad, Muhammad Ali, 0, 2015, Joe Hugel Award
+Lobo, Neil, 0, 2015, Eco Club Award
+Keswani, Nikhil, 0, 2015, Governor General Award

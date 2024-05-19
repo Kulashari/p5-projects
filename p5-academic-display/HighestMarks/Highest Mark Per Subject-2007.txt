@@ -1,0 +1,80 @@
+Mankardous, Mary , 9,	0,	Gr. 9: Academic English
+Antunes, Kelly,	9,	0,	Gr. 9: Applied English
+Matricciano, Luca,	9,	0,	Gr. 9: Locally Dev. English
+Nguyen-Do, Francis,	9,	0,	Gr. 9: Academic Mathematics
+Viera, Julian,	9,	0,	Gr. 9: Applied Mathematics
+Webb, Olivia,	9,	0,	Gr. 9: Locally Dev. Mathematics
+Wong, Mellisa,	9,	0,	Gr. 9: Academic Science
+Antunes, Kelly,	9,	0,	Gr. 9: Applied Science
+Machado, Lucas,	9,	0,	Gr. 9: Locally Dev. Science
+Wong, Melissa,	9,	0,	Gr. 9: Academic French
+Hammond, Stephanie,	9,	0,	Gr. 9: Apllied French
+Valmadrid, Bianca,	9,	0,	Gr. 9: Academic Geography
+Romancych, Ben, 	9,	0,	Gr. 9: Applied Geography
+Jung, Amy, 	9,	0,	Gr. 9: Loc. Dev. Geography
+Pico, Daniel,	9,	0,	Gr. 9: Physical Education (male)
+Wong, Mellisa,	9,	0,	Gr. 9: Physical Education (female)
+Pizzolon, Christina,	0,	0,	Gr. 9: Art
+Lau, Wendy,	9,	0,	Gr. 9: Music
+Nearing, Ryan,	9,	0,	Gr. 9: Music
+Matricciano, Luca,	9,	0,	Gr. 9: Locally Dev. Theology
+Sprat, Laura,	9,	0,	Gr. 9: Theology
+Romanchy, Ben,	9,	0,	Gr. 9 Theology
+Mankarious, Mary,	9,	0,	Gr. 9: Business
+Spratt, Laura,	9,	0,	Gr. 9: Drama
+Pantaleo, Adam , 10,	0,	Gr. 10: Academic English
+Chen-Johnson, Kimberly,	10,	0,	Gr. 10: Applied English
+Clemente, Pedro,	10,	0,	Gr.10: Locally Dev. English
+Pantaleo, Adam , 	10,	0,	Gr. 10: Academic Mathematics
+Paredes, Sarah,	10,	0,	Gr. 10: Applied Mathematics
+Belluz, Andrew,	10,	0,	Gr. 10: Locally Dev. Mathematics
+Diamente, Joshua,	10,	0,	Gr. 10: Academic Science
+Gagnon, Cassandra,	10,	0,	Gr. 10: Applied Science
+Clemente, Pedro,	10,	0,	Gr. 10: Locally Dev. Science
+Burke, Tangi,	10,	0,	Gr. 10: Moderns-French
+Ortiz, Daniela,	10,	0,	Gr. 10: Moderns-Spanish
+Tomljenovic, Ivan,	10,	0,	Gr. 10: Academic History
+Wlodarczyk, Paula, 	10,	0,	Gr. 10: Loc. Dev. History
+Legason, Regina, 	10,	0,	Gr. 10: Carrer Studies
+DeLuca, Andrew,	10,	0,	Gr. 10: Physical Education (male)
+Nguyen, Rosalie,	10,	0,	Gr. 10: Physical Education (female)
+Quintela, Deanna,	10,	0,	Gr. 10: Art
+Pantaleo, Adam,		10,	0,	Gr. 10: Music
+Badal, Tricia,	10,	0,	Gr. 10: Technology-Hospitality
+Marino, Dan,	10,	0,	Gr. 10: Technology-Construction
+Martins, Jason,	10,	0,	Gr. 10: Technology-Auto
+Lam, Kevin,	10,	0,	Gr. 10: Technology-Communication
+Dias, Ornella,	10,	0,	Gr. 10: Theology
+Pantaleo, Adam,	10,	0,	Gr. 10: Computers
+Riley, Ashleigh,	10,	0,	Gr. 10: Locally Dev. Drama
+Hyatt, Sarah,	10,	0,	Gr. 10: Drama
+Jackson, Sarah , 11,	0,	Gr. 11: University English
+Magnaye, Stephanie,	11,	0,	Gr. 11: Applied English
+Cota, Jessica,	11,	0,	Gr.11: Workplace English
+D'Souza, Johann, 	11,	0,	Gr. 11: University Mathematics
+Bala, Jeffrey,	11,	0,	Gr. 11: College Mathematics
+Cota, Jessica,	11,	0,	Gr. 11: Workplace Mathematics
+Nguyen, Freddy,	11,	0,	Gr. 11: Biology/Chemistry
+D'Souza, Johann,	11,	0,	Gr. 11: Physics
+Bala, Jeffery,	11,	0,	Gr. 11: Biology College
+Sheahan, Kinberly,	11,	0,	Gr. 11: Moderns-French
+Luis, Ashley,	11,	0,	Gr. 11: Moderns-Spanish
+Jackson, Sarah,	11,	0,	Gr. 11: Social Science
+Bala, Jeff,	11,	0,	Gr. 11: Physical Education (male)
+Roshan, Alex,	11,	0,	Gr. 11: Physical Education (female)
+Lee, Allen,	11,	0,	Gr. 11: Art
+Abuwallw, Zarir,11,	0,	Gr. 11: Music
+D'Souza, Karyn,11,	0,	Gr. 11: Music
+Leung, Katarena,	11,	0,	Gr. 11: Technology-Hospitality
+Dasrat, Jeremy,	11,	0,	Gr. 11: Technology-Construction
+Figliano, Anthony,	11,	0,	Gr. 11: Technology-Auto
+Giunta, Vince,	11,	0,	Gr. 11: Technology-Communication
+Hoang, Stella,	11,	0,	Gr. 11: Theology
+Sulit, Juan Paulo,	11,	0,	Gr. 11: Theology Open
+Nguyen, Freddy,	11,	0,	Gr. 11: Business Excellence
+Ewing, Brent,	11,	0,	Gr. 11: Business Excellence
+Sheahan, Kimberly,	11,	0,	Gr. 11: Business Excellence
+Natividad, Nikki,	11,	0,	Gr. 11: Computer Studies
+D'Souza, Daniela,	11,	0,	Gr. 11: E.S.L
+Ancinelli, Alisha,	11,	0,	Gr. 11: Public Speaking
+Hoang, Stella,	11,	0,	Gr. 11: Media Studies

@@ -1,0 +1,68 @@
+Clemente, Pedro , 9,	0,	Gr. 9: Academic Resource
+Skugor, Adriana,	9,	0,	Gr. 9: Art
+Murphy, Courtney,	9,	0,	Gr. 9: Business
+Marino, Dan,	9,	0,	Gr. 9: Drama
+Minaudo, Carolyn,	9,	0,	Gr. 9: English
+De Castro, Jessica,	9,	0,	Gr. 9: English
+Amoafo-Danquah, Jessica,	9,	0,	Gr. 9: English
+Burke, Tangi,	9,	0,	Gr. 9: Moderns - French
+Lenardon, Katelyn,	9,	0,	Gr. 9: Moderns - French
+Burke, Tangi,	9,	0,	Gr. 9: Music
+Villanueva, Melanie,	9,	0,	Gr. 9: Physical Education (male)
+Lundhild, Kristian,	9,	0,	Gr.9: Physical Education(female)
+Burke, Tangi,	0,	0,	Gr. 9: Science
+Dollano, T.J.,	0,	0,	Gr. 9: Science
+Martins, Jason,	9,	0,	Gr. 9: Science
+Lam, Kevin,	9,	0,	Gr. 9: Geography
+Wlodarczyk, Paula,	9,	0,	Gr. 9: Geography
+Trulla, Stefania,	9,	0,	Gr. 9 Theology
+Villanueva, Melanie,	9,	0,	Gr. 9 Theology
+Cota, Jessica , 10,	0,	Gr. 10: Academic Resource
+Yadav, Rahul,	10,	0,	Gr. 10: Art
+Rafanan, Janille,	10,	0,	Gr.10: Business
+Nguyen, Andrew , 	10,	0,	Gr. 10: Civics/Careers
+Natividad, Nikki,	10,	0,	Gr. 10: Computers
+William, Chisty,	10,	0,	Gr. 10: Drama
+Pollard, Greg,	10,	0,	Gr. 10: English
+Mesa-Ramirez, Camillo,	10,	0,	Gr. 10: English
+Nguyen, Freddy,	10,	0,	Gr. 10: Mathematics
+Arruda, Ashley,	10,	0,	Gr. 10: Mathematics
+Costa, Shane,	10,	0,	Gr. 10: Mathematics
+Sheahan, Kimberly,	10,	0,	Gr. 10: Moderns-French
+Luis, Ashlee, 	10,	0,	Gr. 10: Moderns-Spanish
+Yeung, Lawrence, 	10,	0,	Gr. 10: Music
+Frankie, Tina,	10,	0,	Gr.10:Physical Education(female)
+Schipani, Michael,	10,	0,	Gr.10:Physical Education(male)
+Nguyen, Freddy,	10,	0,	Gr. 10: Science
+Figliano, Anthony,	10,	0,	Gr. 10: Science
+Jackson, Sarah,		10,	0,	Gr. 10: History
+Yanez, Cassandra,	10,	0,	Gr. 10: History
+Cota, Jessica,		10,	0,	Gr. 10: History
+Giunta, Vince,	10,	0,	Gr. 10: Technology
+Mascarenhas, Aston,	10,	0,	Gr. 10: Technology
+Natividad, Nikki,	10,	0,	Gr. 10: Theology
+Jackson, Sarah , 11,	0,	Gr. 11: University English
+Naughton, Caitlin,	11,	0,	Gr. 11: Academic Resource
+Jankowski, Mark,	11,	0,	Gr.11: Art
+Pavkovic, Anita, 	11,	0,	Gr. 11: Business
+Mahadevan, Swathi, 	11,	0,	Gr. 11: Business
+Hizon, Nino, 	11,	0,	Gr. 11: Business
+Sidhu, Munni,	11,	0,	Gr. 11: Computers
+Santarelli, Sonia,	11,	0,	Gr. 11: Drama
+Mishriky, Sara,		11,	0,	Gr. 11: English
+Singh, Anand,	11,	0,	Gr. 11: English
+Nguyen, Bryan,	11,	0,	Gr. 11: Mathematics
+Valencia, Angela,	11,	0,	Gr. 11: Mathematics
+Valencia, Angela,	11,	0,	Gr. 11: Moderns-French
+Beluz, Nicole,	11,	0,	Gr. 11: Music
+Jankowsky, Mark,	11,	0,	Gr.11:Physical Education(male)
+Nguyen, Christina,	11,	0,	Gr.11:Physical Education(female)
+Nguyen, Bryan,	11,	0,	Gr. 11: Chemistry
+D'Souza, Whitney,11,	0,	Gr. 11: Biology
+Nguyen, Agnes,	11,	0,	Gr. 11: Physics
+Moysey, Rob,	11,	0,	Gr. 11: Social Science
+Valencia, Angela,	11,	0,	Gr. 11: Technology
+Giorgi, Nicholas,	11,	0,	Gr. 11: Technology
+Membrere, Nerissa,	11,	0,	Gr. 11: Theology
+Valencia, Angela,	11,	0,	Gr. 11: Theology Open
+Prapagharan, Sai,	11,	0,	Gr. 11: Parenting

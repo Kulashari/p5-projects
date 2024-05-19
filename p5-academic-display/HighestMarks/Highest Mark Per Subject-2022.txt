@@ -1,0 +1,279 @@
+Ahmad, Danyal,		9, 	97,	gr.9 Drama
+Elder,Kristen,   	9,	98,	gr.9 Music
+Prasanna, Purvi,	9,	95,	gr.9 Music
+Mohamad, Judy,		9,	95,	gr.9 Music
+Singh, Rithik,		9,	100,	gr.9 Intro. to Info. Technology
+Ahmad, Danyal,		9,	100,	gr.9 Geography of Canada
+Ruiz, Medina,		9,	94,	gr.9 Geography of Canada
+Austin, Nithin,		9,	94,	gr.9 Geography of Canada
+Singh, Rithik,		9,	98,	gr.9 English
+Sugrim, Jayden,		9,	91,	gr.9 English
+Jacobe, Reynald,	9,	82,	Bgr.9 Beginning Comm. in English
+Jacobe, Reynald,	9,	86,	gr.9 English in Daily Life
+ZhengYi, Victor,	9,	91,	gr.9 English for School and Work
+Dakkak, Ghina, 		9,	90,	gr.9 Bridge to English
+Duong, Ethan,		9,	98,	gr.9 Core French
+Mohamad, Judy,		9,	98,	gr.9 Core French
+DeMelo, Alicia,		9,	98,	gr.9 Core French
+Singh, Rithik,		9,	98,	gr.9 Core French
+Nguyen, Keira,		9,	98,	gr.9 Core French
+Rahman, Mikhail,	9,	98,	gr.9 Core French
+Ahmad, Danyal,		9,	98,	gr.9 Core French
+Vellozo, Caitlyn,	9,	91,	gr.9 Core French
+Viersen, Tjerk,		9,	98,	gr.9 Core French
+Vaccari, Spencer,	9,	98,	gr.9 Core French
+Collaco, Grace,		9,	93,	gr.9 Learning Strategies
+Garcia, Matthew,	9,	78,	gr.9 Learning Strategies
+Wyrebek, Taylor,	9,	100,	gr.9 Religious Education
+Berry, Sophia,		9,	100,	gr.9 Religious Education
+DeJesus, JaidynAndrea,	9,	100,	gr.9 Religious Education
+Singh, Rithik,		9,	100,	gr.9 Mathematics
+MartinsVaz, Olivia,	9,	95,	gr.9 Expressions of First Nations
+Liu, Olivia,		9,	95,	gr.9 Expressions of First Nations
+Francis, Matthew,	9,	95,	gr.9 Large Group Activ.-Court Sports
+Vaccari, Spencer,	9,	99,	gr.9 Large Group Activ.-Arena Sports
+Henriques, Dylan,	9,	97,	gr.9 Large Group Activ.-Field Sports
+Siddiqui, Muhammad,	9,	95,	gr.9 Large Group Activ.-Net Sports
+Falzata, Sofia,		9,	95,	gr.9 Large Group Activ.-Net Sports
+Zamparo, Stephen,	9,	95,	gr.9 Large Group Activ.-Net Sports
+Moura, Alyssa,		9,	95,	gr.9 Large Group Activ.-Net Sports
+DeMelo, Alicia,		9,	99,	gr.9 Healthy Active Living Ed.
+Singh, Rithik,		9,	96,	gr.9 Healthy Active Living Ed.
+Tsagarelis, Taia,	9,	99,	gr.9 Science
+Ahmad, Danyal,		9,	99,	gr.9 Science
+Austin, Nithin,		9,	96,	gr.9 Science
+Berry, Sophia,		9,	92,	gr.9 Exploring Technologies
+LeeWo, Mikaela,		10,	98,	gr.10 Dramatic Arts
+Laughton, Matthew,	10,	98,	gr.10 Dramatic Arts
+Alba, Samantha,		10,	98,	gr.10 Dramatic Arts
+Theocharis, Zoe,	10,	97,	gr.10 Dramatic Arts
+Ali, Zainab,		10,	97,	gr.10 Dramatic Arts
+Sourour, Bassem,	10,	97,	gr.10 Guitar Music
+Petrak, Amanda,		10,	97,	gr.10 Music
+Teixeira, Julia,	10,	98,	gr.10 Music
+Medeiros, Evelyn,	10,	100,	gr.10 Media Arts
+Pesino, Sienna,		10,	96,	gr.10 Dance
+Yakimishyn, Abigail,	10,	96,	gr.10 Dance
+Bernardo, Jerikka,	10,	99,	gr.10 Visual Arts
+Theocharis, Zoe,	10,	99,	gr.10 Visual Arts
+Patel, Jainil,		10,	98,	gr.10 Visual Arts
+Polancec-Marin, Issabella,10,	98,	gr.10 Visual Arts
+Podobnik, Milena,	10,	99,	gr.10 Visual Arts - Crafts
+RoyChowdhury, Isha,	10,	99,	gr.10 Visual Arts - Crafts
+Ali, Camila, 		10,	100,	gr.10 Introduction of Business
+Singh, Ghazala,		10,	100,	gr.10 Introduction of Business
+Alba, Samantha,		10,	100,	gr.10 Introduction of Business
+RoyChowdhury, Isha,	10,	97,	gr.10 Canadian History 20th century
+Sritharan, Tilosana,	10,	97,	gr.10 Canadian History 20th century
+Onuorah, Dora,		10,	97,	gr.10 Canadian History 20th century
+Figueiredo, Roberto,	10,	99,	gr.10 Canadian History 
+Vieira, Avangelina,	10,	100,	gr.10 Canadian History 20th century
+Theocharis, Zoe,	10,	100,	gr.10 Civics (0.5 credit)
+Mukhtar, Salwa,		10,	100,	gr.10 Civics (0.5 credit)
+RoyChowdhury, Isha,	10,	100,	gr.10 Civics (0.5 credit)
+Teixeira, Julia,	10,	100,	gr.10 Civics (0.5 credit)
+Bernardo, Jerikka,	10,	100,	gr.10 Civics (0.5 credit)
+Alba, Samantha, 	10,	100,	gr.10 Civics (0.5 credit)
+LeeWo, Mikaela,		10,	99,	gr.10 English - Academic
+Mubsher, Imaan,		10,	80,	gr.10 English
+Pez, Matthew,		10,	88,	gr.10 English
+Bernardo, Jerikka,	10,	95,	gr.10 Core French
+Nambiar, Vamika,	10,	100,	gr.10 Career Studies
+Korzeb, Alicja,		10,	100,	gr.10 Career Studies
+Radwan, Nadia,		10,	100,	gr.10 Career Studies
+Kapralos, Felicianna,	10,	100,	gr.10 Career Studies
+Yusufali, Adnan,	10,	100,	gr.10 Career Studies
+Saliba, Karina,		10,	100,	gr.10 Career Studies
+Rendall, Melissa,	10,	100,	gr.10 Career Studies
+Ali, Camila,		10,	100,	gr.10 Career Studies
+Varas, Lucas,		10,	95,	gr.10 Learning Strategies
+Nambiar, Vamika,	10,	100,	gr.10 Religious Education
+Gorial, Isabel,		10,	100,	gr.10 Religious Education
+Singh, Ghazala,		10,	100,	gr.10 Religious Education
+Selwa, Tyler,		10,	100,	gr.10 Religious Education
+Alba, Samantha,		10,	100,	gr.10 Religious Education
+Correale, Olivia,	10,	100,	gr.10 Religious Education
+Carta, Alexia,		10,	100,	gr.10 Religious Education
+Grover, Kenisha,	10,	100,	gr.10 Religious Education
+Onuorah, Dora,		10,	98,	gr.10 Religious Education
+Sritharan, Tilosana,	10,	98,	gr.10 Intro. to Computer Studies
+Ngan, Ryan,		10,	98,	gr.10 Intro. to Computer Studies
+Pez, Matthew,		10,	100,	gr.10 Mathematics
+Macario, Aiden,		10,	98,	gr.10 Foundations of Mathematics
+Singh, Ghazala,		10,	99,	gr.10 Principles of Mathematics
+Bernardo, Jerikka,	10,	99,	gr.10 Principles of Mathematics
+Bhardwaj, Manatt,	10,	99,	gr.10 Principles of Mathematics
+Dimichino, Simone,	10,	99,	gr.10 Principles of Mathematics
+Onuorah, Dora,		10,	99,	gr.10 Principles of Mathematics
+Masood, Humza,		10,	99,	gr.10 Principles of Mathematics
+Alba, Samantha,		10,	99,	gr.10 Principles of Mathematics
+Ali, Subhaan,		10,	99,	gr.10 Principles of Mathematics
+Morgan, Noah,		10,	96,	gr.10 Large Group Activ.-Court Sports
+Wood, Alexander,	10,	97,	gr.10 Large Group Activ.-Arena Sports
+Minakakis, Andreas,	10,	97,	gr.10 Large Group Activ.-Arena Sports
+Cermeno, Meireles,	10,	97,	gr.10 Large Group Activ.-Field Sports
+Hipolito, Noah,		10,	96,	gr.10 Large Group Activ.-Net Sports
+Petrak, Amanda,		10,	95,	gr.10 Healthy Active Living Education
+Almeida, Luke,		10,	97,	gr.10 Healthy Active Living Education
+LeeWo, Mikaela,		10,	99,	gr.10 Science
+Baranowski, Sophia,	10,	94,	gr.10 Science
+Medina, Logan,		10,	94,	gr.10 Science
+Mexner, Mikaela,	10,	96,	gr.10 Construction Technology
+Jacinto, Lucas,		10,	98,	gr.10 Exploring Computer Technology
+Onuorah, Dora,		10,	98,	gr.10 Exploring Computer Technology
+Vieira, Avangelina,	10,	97,	gr.10 Hospitality and Tourism Tech.
+Onuorah, Dora,		10,	100,	gr.10 Communications Technology
+Javier, Camille,	10,	100,	gr.10 Communications Technology
+Rajendran, Rajameenakshi,10,	94,	gr.10 Transportation Technology
+Moroney, Sydney,	10,	91,	gr.10 Hairstyling and Aesthetics
+LopesDeOliveira, Brianna,10,	91,	gr.10 Hairstyling and Aesthetics
+BetancurGarces,	Samuel,	11,	95,	gr.11 Dramatic Arts
+Banial, Patrick,	11,	95,	gr.11 Dramatic Arts
+Lattanzio, Tatiana,	11,	95,	gr.11 Dramatic Arts
+Wooder,	Adam,		11,	95,	gr.11 Dramatic Arts
+NoboaNieto, Kevin,	11,	99,	gr.11 Guitar Music
+Attah, Otokpa,		11,	99,	gr.11 Guitar Music
+White, Lucas,		11,	97,	gr.11 Music
+Pham, Valerie,		11,	98,	gr.11 Media Arts
+Al-Haddad, Joelle,	11,	98,	gr.11 Media Arts
+JosonWilczewski, Sara,	11,	98,	gr.11 Media Arts
+Rathakrishnan, Saran,	11,	98,	gr.11 Media Arts
+SucreBarreto, Eduardo,	11,	98,	gr.11 Media Arts
+Matheson, Emily,	11,	99,	gr.11 Visual Arts
+Schuman-Murray,	Alex,	11,	99,	gr.11 Visual Arts
+Opinaldo, Norene,	11,	99,	gr.11 Visual Arts
+Tsang, Bosco,		11,	99,	gr.11 Intro. to Financial Accounting
+Guzzo-Mintzer, Skye,	11,	99,	gr.11 Intro. to Financial Accounting
+Villanueva, Nathan,	11,	99,	gr.11 Intro. to Financial Accounting
+Batra,	Simran,		11,	100,	gr.11 Introduction to Marketing
+Guzzo-Mintzer, Skye,	11,	100,	gr.11 Info. and Communication Tech.
+Batra, Simran,		11,	99,	gr.11 The Individual and the Economy
+Ottino, Marcus,		11,	99,	gr.11 Understanding Canadian Law
+Delongte, Harrison,	11,	99,	gr.11 Cooperative Education
+Matheson, Emily,	11,	99,	gr.11 Cooperative Education
+Sinclair, Jacob,	11,	92,	gr.11 English
+Pinto, Jaden,		11,	82,	gr.11 English
+Okumura, Reyna,		11,	97,	gr.11 English - University
+Perugini, Lauren,	11,	97,	gr.11 English - University
+Kolakowski, Adriana,	11,	98,	gr.11 Core French
+Smith, Christiana,	11,	96,	gr.11 Religion/Leadership
+Aulakh, Digvijay,	11,	97,	gr.11 Designing Your Future
+Kolakowski, Adriana,	11,	98,	gr.11 Dynamics of Human Relationships
+Noman, Mehwish,		11,	95,	gr.11 Parenting
+Katchutas, Mateo,	11,	98,	gr.11 Religions-Beliefs/Daily Life
+Coppolella, Serena,	11,	99,	gr.11 Religions-Beliefs/Issues/Traditions
+Nguyen, Trish,		11,	99,	gr.11 Religions-Beliefs/Issues/Traditions
+Basra, Priya,		11,	95,	gr.11 Religion/Leadership
+Tschinkel, Carys,	11,	98,	gr.11 Introduction to Anthropology
+Ciardullo, Robert,	11,	99,	gr.11 Intro. to Computer Studies
+Majewski, Damian,	11,	100,	gr.11 Introduction to Computer Science
+Asad, Aisha,		11,	95,	gr.11 Mindfulness
+Vaswani, Preity,	11,	99,	gr.11 Spanish
+Catarino, Madison,	11,	92,	gr.11 Foundations for College Math
+Daguio, Aaron,		11,	92,	gr.11 Foundations for College Math
+Khanna,	Janya,		11,	99,	gr.11 Functions
+Guzzo-Mintzer, Skye,	11,	100,	gr.11 Functions and Relations
+Okenye, Jerry,		11,	98,	gr.11 Personal and Fitness Activities.
+Ratnayake, Kevin,	11,	96,	gr.11 Large Group Activ.-Court Sports
+Fehr, Nathan,		11,	97,	gr.11 Large Group Activ.-Arena Sports
+SucreBarreto, Eduardo,	11,	97,	gr.11 Large Group Activ.-Field Sports
+Perugini, Lauren,	11,	96,	gr.11 Large Group Activ.-Net Sports
+Pacheco, Chantal,	11,	100,	gr.11 Rhythm and Movement
+Luong, Vivian,		11,	98,	gr.11 Healthy Active Living Ed.
+Ferraro, Sophia,	11,	98,	gr.11 Healthy Active Living Ed.
+Awad, Maya,		11,	98,	gr.11 Healthy Active Living Ed.
+Carpeneto, Ava,		11,	98,	gr.11 Healthy Active Living Ed.
+JosonWilczewski, Sara,	11,	93,	gr.11 Biology,
+Tschinkel, Carys,	11,	98,	gr.11 Biology - University
+Tschinkel, Carys,	11,	99,	gr.11 Chemistry - University
+Ratnasekera, Anisha,	11,	99,	gr.11 Chemistry - University
+Sharma, Meshak,		11,	97,	gr.11 Physics - University
+Lad, Nidhi,		11,	97,	gr.11 Physics - University
+Galvan,	Elizabeth,	11,	96,	gr.11 Construction Technology
+DiFranco, Filippo,	11,	98,	gr.11 Computer Engineering Technology 
+Shah, Najiullah,	11,	98,	gr.11 Computer Engineering Technology 
+Perugini, Lauren,	11,	99,	gr.11 Hospitality and Tourism-Baking
+Bet, Maya,		11,	95,	gr.11 Hospitality and Tourism
+Quiros, ReneeBelle,	11,	95,	gr.11 Hospitality and Tourism
+Vaghela, Jeevan,	11,	95,	gr.11 Hospitality and Tourism
+Nguyen, Trish,		11,	95,	gr.11 Hospitality and Tourism
+Tran, Kyle,		11,	95,	gr.11 Hospitality and Tourism
+Tran, Kollin,		11,	95,	gr.11 Hospitality and Tourism
+Romano, Ava,		11,	95,	gr.11 Hospitality and Tourism
+Gabriele, Aliza,	11,	95,	gr.11 Hospitality and Tourism
+Wooder,	Adam,		11,	100,	gr.11 Communication Technology
+Khurana, Ria,		11,	100,	gr.11 Communication Technology
+Opinaldo, Shane,	11,	100,	gr.11 Communication Technology
+Rathakrishnan, Saran,	11,	100,	gr.11 Communication Technology
+Galvan, Elizabeth,	11,	94,	gr.11 Transportation Technology
+DiFranco, Filippo,	11,	97,	gr.11 Custom Woodworking
+Khanna, Janya,		11,	91,	gr.11 Hairstyling and Aesthetics
+Mercado, Arwen,		12,	97,	gr.12 Dramatic Arts
+Berania, Matthew,	12,	99,	gr.12 Music
+Laglia,	Anthony,	12,	100,	gr.12 Media Arts
+Pedapati, Sreya,	12,	99,	gr.12 Visual Arts
+DeMesa,	Maria,		12,	99,	gr.12 Visual Arts
+Panjwani, Fahim,	12,	99,	gr.12 Principles of Financial Accounting
+Gayed, Joseph,		12,	98,	gr.12 Introd. to International Business
+Rasquinha, Nicole,	12,	92,	gr.12 Entrep. Studies: Venture Planning
+Bernardo, Jonathan,	12,	98,	gr.12 Business Leadership: Management Fund.
+Kordic, Luka,		12,	96,	gr.12 World History Since Fifteenth Century
+Williams, Daniella,	12,	97,	gr.12 Analysing Current Economic Issues
+Rodrigues, Olivia,	12,	91,	gr.12 Canadian and International Law
+Pillo, Katherine,	12,	92,	gr.12 Canadian and International Law 
+Mark, Jessica,		12,	96,	gr.12 Canadian and World Politics
+Raveeswaran, Theanusan,	12,	100,	gr.12 COOP
+Iqbal, Aryaan,		12,	98,	gr.12 English
+Valentini, Isabella,	12,	97,	gr.12 English - University
+Dinh, Mai,		12,	94,	gr.12 ESL Study Skills in English
+DeMedeiros, Isabella,	12,	96,	gr.12 The Writer's Craft
+DeMesa,	Maria,		12,	96,	gr.12 Core French
+Perrotta, Lia,		12,	94,	gr.12 Families in Canada
+Chandramohan, Krishne,	12,	94,	gr.12 Families in Canada
+Parmar, Piya,		12,	98,	gr.12 Families in Canada - Univ.
+Khan, Timothy,		12,	98,	gr.12 Families in Canada - Univ.
+Tavares, Braeden,	12,	98,	gr.12 Religious Education
+DeSouza, Giselle,	12,	98,	gr.12 Religious Education
+Panicker, Kiran,	12,	98,	gr.12 Religious Education
+Diab, Catherine,	12,	98,	gr.12 Religious Education
+Boerkamp, Stephanie,	12,	98,	gr.12 Religious Education
+SajimonNair, Anshika,	12,	96,	gr.12 Religious Education
+Iqbal, Aryaan,		12,	96,	gr.12 Religious Education
+Rezeik,	Mariam,		12,	98,	gr.12 Challenge/Change in Society
+Naseer, Sarim,		12,	98,	gr.12 Challenge/Change in Society
+Stiliaras, Christina,	12,	98,	gr.12 Challenge/Change in Society
+Parmar, Piya,		12,	98,	gr.12 Challenge/Change in Society
+Desai, Aarav,		12,	97,	gr.12 Equity,Diversity,Social Justice
+Chandra, Asmita,	12,	93,	gr.12 Philosophy: Questions/Theories
+Parmar, Piya,		12,	93,	gr.12 Philosophy: Questions/Theories
+Bilal, Mohammad,	12,	99,	gr.12 Introduction to Computer Studies
+Chauhan, Arnav,		12,	96,	gr.12 Interdisciplinary Studies
+Nguyen,	Johnny,		12,	99,	gr.12 College and Apprenticeship Math
+Bilal, Mohammad,	12,	99,	gr.12 Calculus and Vectors
+Sabapathy, Teja,	12,	98,	gr.12 Mathematics and Data Management
+Soltys, Justin,		12,	90,	gr.12 Mathematics-Work, Everyday Life
+Bilal, Mohammad,	12,	99,	gr.12 Advanced Functions
+Diab, Catherine,	12,	98,	gr.12 Personal and Fitness Activities
+Virgo, Noah,		12,	96,	gr.12 Large Group Activ. -Basketball
+Aranda, Jett, 		12,	96,	gr.12 Large Group Activ. - Basketball
+Marchesan, Frank,	12,	97,	gr.12 Large Group Activ, - Soccer
+Kociancic, Meghan,	12,	96,	gr.12 Large Group Activ, - Volleyball
+Stenta, Danijela,	12,	91,	gr.12 Healthy Living/Rhythm/Movement
+Quattrociocchi, Gianluca,12,	99,	gr.12 Recreation and Fitness Leader.
+Diab, Catherine,	12,	95,	gr.12 Introductory Kinesiology
+Valentini, Isabella,	12,	97,	gr.12 Biology
+Gayed, Joseph,		12,	97,	gr.12 Biology
+Barboza, Jessica,	12,	97,	gr.12 Biology
+Fernandes, Leandro,	12,	96,	gr.12 Chemistry
+Bilal, Mohammad,	12,	99,	gr.12 Chemistry - University
+Roney, Abel,		12,	91,	gr.12 Physics
+Bilal, Mohammad,	12,	99,	gr.12 Physics - University
+Wyrebek, Lyra,		12,	95,	gr.12 Construction Technology
+Zhang, Marc,		12,	98,	gr.12 Computer Engineering Tech. 
+Muzammil, Ahsan,	12,	98,	gr.12 Computer Engineering Tech. 
+Bilal, Mohammad,	12,	98,	gr.12 Computer Engineering Tech. 
+Bilal, Mohammad,	12,	99,	gr.12 Computer Science
+Pham, Carolyn,		12,	95,	gr.12 Hospitality/Tourism: Baking
+Zizek, Marcus,		12,	92,	gr.12 Hospitality and Tourism
+Alves, Maya,		12,	99,	gr.12 Communication Technology
+Bogahalanda, Imali,	12,	91,	gr.12 Transportation Technology

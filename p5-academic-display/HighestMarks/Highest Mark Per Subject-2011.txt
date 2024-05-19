@@ -1,0 +1,142 @@
+Gundu, Riya,	9,	91,	Gr. 9: Dramatic Arts
+Pereira, Marc ,	9,	91,	Gr. 9: Dramatic Arts
+Ferreira, Brian,	9,	91,	Gr. 9: Dramatic Arts
+Ellins, Lauren,	10,	92,	Gr. 10: Dramatic Arts
+Campea, Matthew,	10,	92,	Gr. 10: Dramatic Arts
+Andruko, Adam,	10,	92,	Gr. 10: Dramatic Arts
+Nunez, Alexander,	10,	92,	Gr. 10: Dramatic Arts
+Merlini, Sandra,	10,	92,	Gr. 10: Dramatic Arts
+Aquino, John,	10,	92,	Gr. 10: Dramatic Arts
+Tomljenovic, Nika,	11,	90,	Gr. 11: Dramatic Arts
+Huang, Cherry,	9,	98,	Gr. 9: Music
+De Vera, Kristina,	9,	98,	Gr. 9: Music
+Sabandal, Angelica,	9,	98,	Gr. 9: Music
+Adjei-Asamoah, Nathalie,	9,	98,	Gr. 9: Music
+McDonald, Curtis,	10,	98,	Gr. 10: Music
+McDonald, Alexandra,	10,	98,	Gr. 10: Music
+Barrete-Tsaur, Alexander,	11,	97,	Gr. 11: Music
+Thurner, Lauren,	9,	97,	Gr. 9: Visual Arts
+Huang, Tina,	9,	97,	Gr. 9: Visual Arts
+Baclit, Lorraine,	10,	94,	Gr. 10: Visual Arts
+Yoshimura, Michael,	11,	96,	Gr. 11: Visual Arts
+Eisa, Kevin,	11,	98,	Gr. 11: Fin. Accounting Fundamentals
+Martini, Elysia,	10,	97,	Gr. 10: Introduction to Business
+Tse, Jesse,	11,	94,	Gr. 11: Entreprenseurship-The Venture
+Magi, Nadia,	11,	94,	Gr. 11: Marketing
+Fernandes, Rachel,	11,	94,	Gr.: 11 Marketing
+Dadd, Ryan,	11,	95,	Gr. 11: Info. and Comm. Technology
+DiGirolamo, Mathew,	9,	93,	Gr. 9: Info. and Comm. Technology
+DiGirolamo, Mathew,	9,	97,	Gr. 9: Academic Geography of Canada
+Lobo, Dylan,	9,	94,	Gr.9 Applied:Geography of Canada
+Leiva, Jasmine,	9,	86,	Gr.9 Loc. Dev.:Geography of Canada
+McDonald, Alexandra,	10,	95,	Gr. 10 Academic: Canadian History 
+Moorehead, Amy,	10,	95,	Gr. 10 Academic: Canadian History 
+Coelho, Kelly,	10,	91,	Gr. 10 Locally Dev:Canadian History
+LeBlanc-Reid, Mikaleigh,	10,	90,	Gr. 10 Applied: Canadian History
+Leachay, Vanna,	10,	97,	Gr. 10: Civics
+Tran, Tracy,	11,	93,	Gr. 11: World Studie
+Drautz, Diana,	11,	93,	Gr. 11: World Studies
+Petrovic, Maja,	11,	92,	Gr. 11: Understanding Canadian Law
+Mousa, Ahmad,	11,	92,	Gr. 11: Understanding Canadian Law
+Albernaz, Sarah,	11,	92,	Gr. 11: Understanding Canadian Law
+Ordono, Noribelle,	11,	93,	Gr. 11: Media Studies
+Carnide, Joshua,	9,	96,	Gr. 9: Academic English
+Ferreira, Vanessa,	9,	80,	Gr. 9: Locally Developed English
+Lobo, Dylan,	9,	92,	Gr. 9: Applied English
+Martini, Elysia,	10,	96,	Gr. 10: Academic English
+Melo, Alicia,	10,	84,	Gr. 10: Locally Dev. English
+Meffe, Nicholas,	10,	80,	Gr. 10: Applied English
+Celestino, Kyro Glen,	10,	80,	Gr. 10: Applied English
+Correia, Brittany,	10,	80,	Gr. 10: Applied English
+Lake, Robyn,	11,	86,	Gr. 11: College English
+Faithfull, Anthony,	11,	75,	Gr. 11: Workplace English
+Petrovic, Maja,	11,	95,	Gr. 11: Academic English
+Fernandes, Kevin,	11,	94,	Gr. 11: Presentation/Speaking Skill
+Osorno, Evelyn,	9,	95,	E.L.L.: English in Daily Life
+Liu, Sabrina,10,		94,	English for School and Work
+Lucic-Jozak, Marko,	9,	90,	E.L.L.: Study Skills in English
+Bojo, Magdalena,	10,	91,	E.L.L.: Study Skills in English
+Bojo, Magdalena,	10,	88,	E.L.L.: Bridge to English
+Carnide, Joshua,	9,	94,	Gr. 9: Academic French
+D'Amato, Christina, 	9,	95,	Gr. 9: Applied French
+Co, Kristyn,	10,	97,	Gr. 10: Academic French
+Martini, Elysia,	10,	97,	Gr. 10: Academic French
+Gonsalves, Chantelle,	11,	93,	Gr. 11: Academic French
+Lien, Amanda,	10,	100,	Gr. 10: Career Studies
+Ruiz Gutierrez, Luisa,	10,	100,	Gr. 10: Career Studies
+Jones, Jasmin,	10,	100,	Gr. 10: Career Studies
+Gonsalves, Chantelle,	10,	100,	Gr. 10: Career Studies
+Johnson, Chantal,	10,	100,	Gr. 10: Career Studies
+Saturno, Anthony,	10,	100,	Gr. 10: Career Studies
+Pan, Nicolas,	9,	81,	Gr. 9 Learning Strat.: Skills for Success
+Baig, Zubair Rashid,	9,	81,	Gr. 9 Learning Strat.: Skills for Success
+Mascarenhas, Gayle,	9,	86,	Gr.9 Learning Strat.: Skills for Success
+Foessel, Renee,	10,	94,	Gr. 10: Learning Strategies
+Ross, Melanie,	10,	87,	Gr. 10: Learning Strategies
+So, Evangeline,	11,	98,	Gr. 11: Leadership-Peer Support
+Fernandes, Nathan,	11,	98,	Gr. 11: Designing Your Future
+Vieira, Sarah,	11,	94,	Gr. 11: Parenting
+Cassano, Julian,	9,	97,	Gr. 9: Religion
+Martini, Elysia,	10,	97,	Gr. 10: Religion
+Petrovic, Maja,	11,	97,	Gr. 11 Univ.: World Religions
+Ferrari, Tixiana,	11,	87,	Gr. 11 Open:World Religions
+Illmann, Caroline,	11,	96,	Gr. 11: Anthropology
+Fernandes, Nathan,	11,	96,	Gr.11: Intro. to Computer Science
+Co, Kristyn,	10,	98,	Gr. 10: Spanish
+Satizabal Mejia, Catalina,	11,	83,	Gr 11: Spanish
+Dilawar, Jahanzeb,	9,	90,	Gr. 9: Locally Developed Math.
+Wanes, Maikel,	10,	92,	Gr. 10: Locally Developed Math.
+Medeiros, Andre,	11,	97,	Gr. 11: College Mathematics
+Mullings, Dacia,	11,	96,	Gr. 11: Functions-Applications Math.
+Diep, Calvin,	11,	99,	Gr. 11: Univ. Math Functions
+Ranger, Jacquelyn,	11,	90,	Gr. 11: Workplace Mathematics
+Liu, Sabrina,	9,	94,	Gr. 9: Applied Mathematics
+Ignagni, Olivia,	10,	94,	Gr. 10: Applied Mathematics
+Yuen, Justin,	9,	99,	Gr. 9: Academic Mathematics
+Sabandal, Angelica,	9,	99,	Gr. 9: Academic Mathematics
+Martini, Elysia,	10,	99,	Gr. 10: Academic Mathematics
+McDonald, Curtis,	10,	99,	Gr. 10: Academic Mathematics
+Spratt, Rachel,	11,	91,	Gr. 11: Persona-Fitness Activities
+Gioffre, Maurizio,	11,	95,	Gr. 11: Personal-Fitness Activities
+Thurner, Daniel,	11,	95,	Gr. 11: Personal-Fitness Activities
+Sabandal, Angelica,	9,	95,	Gr.9:Heatlthy Active Living Ed.
+Spratt, Joel,	9,	97,	Gr. 9:Healthy Active Living Ed.
+Lien, Amanda,	10,	95,	Gr. 10:Healthy Active Living Ed.
+Gilbert, Jared,	10,	94,	Gr. 10:Healthy Active Living Ed.
+Lundhild, Alexandra,	11,	94,	Gr.11:Healthy Activie Living Ed.
+Xavier, Kyle,	11,	90,	Gr. 11: College Biology
+Mousa, Ahmad,	11,	96,	Gr. 11: University Biology
+Gorgi, Christine,	11,	96,	Gr. 11: University Biology
+Mousa, Ahmad,	11,	98,	Gr. 11: University Chemistry
+Sabandal, Angelica,	9,	95,	Gr. 9: Academic Science
+Carnide, Joshua,	9,	95,	Gr. 9: Academic Science
+Gentile, Kassandra,	9,	94,	Gr. 9: Locally Developed Science
+Coelho, Kelly,	9,	90,	Gr. 9: Applied Science
+Martini, Elysia,	10,	97,	Gr. 10: Academic Science
+Lien, Amanda,	10,	97,	Gr. 10: Academic Science
+Mark, Bryan,	10,	96,	Gr. 10: Applied Science
+Fernandes, Nathan,	11,	96,	Gr. 11: University Physics
+Tartaglia, Lucas,	10,	90,	Gr.10: Construction Engineering Tech.
+Horta, Mark,	10,	90,	Gr.10: Construction Engineering Tech.
+Dias, Zackary,	10,	90,	Gr.10: Construction Engineering Tech.
+Gallo, Adam,	10,	90,	Gr.10: Construction Engineering Tech.
+Hill, Phillip,	11,	92,	Gr.11: Construction Engineering Tech.
+Tran, Melissa,	11,	92,	Gr.11: Construction Engineering Tech.
+Ali, Sabrina,	11,	92,	Gr.11: Construction Engineering Tech.
+Tran, Sophia,	11,	92,	Gr.11: Construction Engineering Tech.
+Co, Kristyn,	10,	94,	Gr. 10: Computer Engineering Tech.
+Firtandi, Adriel,	11,	87,	Gr. 11: Computer Engineering Tech.
+Illmann, Caroline,	10,	95,	Gr. 10: Hospitality-Tourism Technology
+Fernandes, Rachel,	11,	88,	Gr. 11: Hospitality-Tourism Technology
+Blackmore, Shari,	11,	88,	Gr. 11: Hospitality-Tourism Technology
+Elsaharty, Bassem,	11,	88,	Gr. 11: Hospitality-Tourism Technology
+Jocson, Maja,	11,	90,	Gr.11: Hospitality-Tourism Tech.-SHSM
+Jocson, Maja,	11,	90,	Gr.11: Hospitality-Toursim Tech.-SHSM
+Sheahan, Daniel,	11,	92,	Gr. 11: Communication Technology
+Carnide, Joshua,	9,	93,	Gr. 9: Exploring Technologies
+Viegas, Adrian,	10,	94,	Gr. 10: Transportation Technology
+Passalacqua, David,	11,	90,	Gr. 11: Transportation Technology
+Ali, Sabrina,	11,	92,	Gr. 11: Custom Woodworking
+Cardozo, Sarah,	10,	93,	Gr. 10: Hairstyling and Aesthetics
+Le, Helen,	10,	93,	Gr. 10: Hairstyling and Aesthetics
+Ordono, Noribelle,	11,	95,	Gr. 11: Hairstyling and Aesthetics

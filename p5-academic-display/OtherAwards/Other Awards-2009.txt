@@ -1,0 +1,16 @@
+Diep,Calvin , 9, 2009, Top Student
+ Mousa,Ahmad, 9, 2009, Top Student
+Petrovic,Maja, 9, 2009, Top Student
+Eisa,Monique, 10, 2009, Top Student
+Joya,Cathleen, 10, 2009, Top Student
+Lenardon,Ryan, 10, 2009, Top Student
+Grace Koshy,Sneha, 11, 2009, Top Student
+Pavkovic,Ivan, 11, 2009, Top Student
+Wong,Melissa, 11, 2009, Top Student
+Oramiz, Isabela, 9, 2009, Spirit Award
+Constant, Jordan, 10, 2009, Spirit Award
+Spratt, Laura,  11, 2009, Spirit Award
+Arangattu, Phincy, 0, 2009, Mother Theresa Award
+Eisa, Monique, 0, 2009, Joe Hugel Award
+Nguyen, Freddy, 0, 2009, Governor General Award
+Pantaleo, Adam, 0, 2009, Governor General Award

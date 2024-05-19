@@ -1,0 +1,215 @@
+Khan,	Zainab,	9,	0,	Gr. 9: Dramatic Arts
+Farquharson,	Sarah,	9,	0,	Gr. 9: Dramatic Arts
+McEachern,	Devin,	10,	0,	Gr. 10: Dramatic Arts
+Perera,	Damien,	10,	0,	Gr. 10: Dramatic Arts
+Mandia,	Christina,	11,	0,	Gr. 11: Dramatic Arts
+Bernardo,	Emma,	11,	0,	Gr. 11: Dramatic Arts
+Silva,	Nicole,	11,	0,	Gr. 11: Dramatic Arts
+Qin,	Daphne,	10,	0,	Gr. 10 Music: Guitar 
+Divino,	Marielle,	11,	0,	Gr. 11 Music: Guitar 
+Song,	Kelly,	9,	0,	Gr. 9: Music
+Zarei-Joorshari,	Zoya,	9,	0,	Gr. 9: Music
+Quattrociocchi,	Umberto,	9,	0,	Gr. 9: Music
+Abraham,	Ashley,	10,	0,	Gr. 10: Music
+Guentner,	Jared,	10,	0,	Gr. 10: Music
+Velasquez,	Jeremiah,	11,	0,	Gr. 11: Music
+Dela Cruz,	Jubel Anne,	10,	0,	Gr. 10: Media Arts
+Panicker,	Kajal,	10,	0,	Gr. 10: Media Arts
+Betancur Garces,	Jose,	11,	0,	Gr. 11: Media Arts
+Santos,	Shane,	11,	0,	Gr. 11: Media Arts
+Agius,	Dianna,	11,	0,	Gr. 11: Media Arts
+Harwart,	Helaena,	9,	0,	Gr. 9: Visual Arts-Comprehensive
+Delgado,	Alexis,	10,	0,	Gr. 10: Visual Arts
+Ranabhat,	Avantika,	10,	0,	Gr. 10: Visual Arts
+Naseem,	Sima,	11,	0,	Gr. 11: Visual Arts
+Sue-Wah-Sing,	Sofia,	11,	0,	Gr. 11: Visual Arts
+Brar,	Sukham,	11,	0,	Gr. 11: Intro. to Financial Accounting
+Panicker,	Kajal,	10,	0,	Gr. 10: Introduction of Business
+Dela Cruz,	Armin,	11,	0,	Gr. 11: Introduction to Marketing
+De Lorenzi,	Laura,	11,	0,	Gr. 11: Introduction to Marketing
+Malik,	Eman,	11,	0,	Gr. 11: Info. and Comm. Technology
+Gill,	Janeev,	9,	0,	Gr. 9: Intro. to Information Tech.
+Castro,	Andrew,	9,	0,	Gr. 9: Intro. to Information Tech.
+Netto,	Shania,	9,	0,	Gr. 9 Academic: Geography of Canada
+Harwart,	Helaena,	9,	0,	Gr. 9 Academic: Geography of Canada
+Castro,	Andrew,	9,	0,	Gr. 9 Academic: Geography of Canada
+Speziale,	Salvatore,	9,	0,	Gr. 9 Applied: Geography of Canada
+Chau,	Britney,	9,	0,	Gr. 9 Loc. Dev.:  Geography of Canada
+Naranjo,	Valentina,	9,	0,	Gr. 9 Loc. Dev.: Geography of Canada
+Uddin,	Lamia,	10,	0,	Gr. 10 Academic: Canadian History
+Narvali,	Julia,	10,	0,	Gr. 10 Loc. Dev.: Canadian History 
+Monwe,	Francis,	10,	0,	Gr. 10 Applied: Canadian History 
+Perera,	Damien,	10,	0,	Gr. 10: Civics 
+Silva,	Nicole,	11,	0,	Gr. 11: World History-Sixteenth Century
+Samar-Brizuela,	Janelle,	11,	0,	Gr. 11: The Individual and the Economy
+Podobnik,	Juliana,	11,	0,	Gr. 11: Understanding Canadian Law
+Harwart,	Helaena,	9,	0,	Gr. 9 Academic: English
+Naranjo,	Valentina,	9,	0,	Gr. 9 Locally Developed: English
+Innis,	Malik,	9,	0,	Gr. 9 Locally Developed: English
+Speziale,	Salvatore,	9,	0,	Gr. 9 Applied: English
+Perera,	Damien,	10,	0,	Gr. 10 Academic: English
+Siemms,	Melissa,	10,	0,	Gr. 10 Academic: English
+Chaudhry,	Mabroor,	10,	0,	Gr. 10 Applied: English
+Sinclair,	Ethan,	10,	0,	Gr. 10 Applied: English
+Natale,	Alicia,	11,	0,	Gr. 11 College: English
+Gibski,	Alexander,	11,	0,	Gr. 11 College: English
+Forrest,	Aliyah,	11,	0,	Gr. 11 Workplace: English
+Dela Cruz,	Armin,	11,	0,	Gr. 11 University: English
+Edsid,	Michael,	11,	0,	Gr. 11 University: English
+Brar,	Sukham,	11,	0,	Gr. 11 University: English
+Zaidi,	Fatimah,	11,	0,	Gr. 11 University: English
+Habib,	John,	11,	0,	Gr. 11 University: English
+Spence,	David,	11,	0,	Gr. 11: Presentation-Speaking Skills
+Harrison,	Jordan,	11,	0,	Gr. 11: Presentation-Speaking Skills
+Rumley,	Daniella,	11,	0,	Gr. 11: Presentation-Speaking Skills
+Tan,	Cadance,	11,	0,	Gr. 11: Presentation-Speaking Skills
+Pedron,	Angel Grace,	11,	0,	E.L.L.: English in Daily Life
+Tran,	Khoi Nguyen,	0,	0,	E.L.L.: English for School and Work
+Pedron,	Airha Joy,	0,	0,	E.L.L.: Study Skills in English
+Almesri,	Ali,	0,	0,	E.L.L.: Bridge to English
+Ciganovic,	Nevena,	9,	0,	Gr. 9 Academic: French
+Fernandes,	Keith,	9,	0,	Gr. 9 Academic: French
+Castro,	Andrew,	9,	0,	Gr. 9 Applied: French
+Fernandes,	Julia,	10,	0,	Gr. 10 Academic: French
+Palarca,	Jerrianne,	10,	0,	Gr. 10 Academic: French
+Edsid,	Michael,	11,	0,	Gr. 11 University: French
+Rajala,	Emma,	10,	0,	Gr. 10: Career Studies
+Malik,	Isma,	10,	0,	Gr. 10: Career Studies
+Masoud,	Mina,	10,	0,	Gr. 10: Career Studies
+Abu-Zeineh,	Ramzi,	10,	0,	Gr. 10: Career Studies
+Akhter,	Farheen,	10,	0,	Gr. 10: Career Studies
+Fekete,	Hunter,	9,	0,	Gr. 9 Learning Strategies
+Speziale,	Salvatore,	9,	0,	Gr. 9 Learning Strategies
+Karppi,	Makenna,	10,	0,	Gr. 10 Learning Strategie
+Malik,	Eman,	11,	0,	Gr. 11: Leadership and Peer Support
+Kusznirewicz,	Antoni,	11,	0,	Gr. 11: Leadership and Peer Support
+Dos Santos,	Anthony,	11,	0,	Gr. 11: Designing Your Future
+Bhatnagar,	Anjali,	11,	0,	Gr. 11: Dynamics of Human Rel.
+Dos Santos,	Anthony,	11,	0,	Gr. 11: Dynamics of Human Rel.
+Forrest,	Aliyah,	11,	0,	Gr. 11: Dynamics of Human Rel.
+Bhatnagar,	Anjali,	11,	0,	Gr. 11: Parenting
+Netto,	Shania,	9,	0,	Gr. 9: Religious Education
+Harwart,	Helaena,	9,	0,	Gr. 9: Religious Education
+Pedron,	Airha Joy,	9,	0,	Gr. 9: Religious Education E.L.L.
+De Vera,	Reanna,	10,	0,	Gr. 10: Religious Education
+Uddin,	Lamia,	10,	0,	Gr. 10: Religious Education
+Krishnasundaram,	Kanapathy,	11,	0,	Gr. 11: World Religions
+De Lorenzi,	Laura,	11,	0,	Gr. 11: World Religions
+Malik,	Eman,	11,	0,	Gr. 11: World Religions 
+De Lorenzi,	Laura,	11,	0,	Gr. 11: Introduction to Anthropology
+Abu-Zeineh,	Ramzi,	10,	0,	Gr. 10: Intro. to Computer Studies
+Panicker,	Kajal,	10,	0,	Gr. 10: Intro.to Computer Studies
+Uddin,	Lamia,	10,	0,	Gr. 10: Intro. to Computer Studies
+Johnston,	Andrew,	11,	0,	Gr.11 College:Intro. to Computer Studies
+Zaidi,	Fatimah,	11,	0,	Gr. 11 Univ.: Introd. to Computer Studies
+Paredes,	Olivia,	11,	0,	Gr. 11: Interdisciplinary Studies
+Speziale,	Salvatore,	9,	0,	Gr. 9 Loc. Dev.: Mathematics
+Briones,	Angelo,	10,	0,	Gr. 10 Loc. Dev.: Mathematics
+Tropea,	Peter,	11,	0,	Gr. 11 College: Math of Pers.Finance
+Syed,	Fawad,	11,	0,	Gr. 11 College: Math. of Pers. Finance
+Ballen,	Alysia,	11,	0,	Gr. 11 Math: Functions&Applications
+Edsid,	Michael,	11,	0,	Gr. 11 Univ.Math.: Functions & Relations
+Habib,	John,	11,	0,	Gr. 11 Univ.Math.: Functions & Relations
+Bentvelsen,	Jared,	11,	0,	Gr. 11 Univ.Math.: Functions & Relations
+Miranda,	Jacob,	11,	0,	Gr. 11: Mathematics for Everyday Life
+Recupero,	Massimo,	9,	0,	Gr. 9 Applied: Foundations of Math.
+Chaudhry,	Mabroor,	10,	0,	Gr. 10 Applied: Foundations of Math.
+Harwart,	Helaena,	9,	0,	Gr. 9 Academic: Principles of Math.
+Castro,	Andrew,	9,	0,	Gr. 9 Academic: Principles of Math.
+Masoud,	Mina,	10,	0,	Gr. 10 Academic: Principles of Math.
+Perera,	Damien,	10,	0,	Gr. 10 Academic: Principles of Math.
+Colonna,	Eric,	11,	0,	Gr. 11: Personal / Fitness Activities
+Malik,	Zara,	9,	0,	Gr. 9: Large Group Act.-Basketball
+Hogan,	Matthew,	9,	0,	Gr. 9: Large Group Act.-Hockey
+Falzata,	Joseph,	9,	0,	Gr. 9: Large Group Act.-Soccer
+Capone,	Julia,	9,	0,	Gr. 9: Large Group Act.-Volleyball
+Ferrer,	Cyrus,	10,	0,	Gr. 10: Large Group Act.-Basketball
+Banjo,	Oluwasemilore,	10,	0,	Gr. 10: Large Group Act.-Basketball
+Wright,	Zachary,	10,	0,	Gr. 10: Large Group Act.-Hockey
+Al-Muhandes,	Abdullah,	10,	0,	Gr. 10: Large Group Act.-Soccer
+Thomas,	Victoria,	10,	0,	Gr. 10: Large Group Act.-Volleyball
+Ghori,	Ali,	11,	0,	Gr. 11: Large Group Act.-Basketball
+Lukomski,	Vladimir,	11,	0,	Gr. 11: Large Group Act.-Basketball
+Mourani,	Alexander,	11,	0,	Gr. 11: Large Group Act.-Hockey
+Caren,	Daniel,	11,	0,	Gr. 11: Large Group Act.-Soccer
+Powell,	Matthew-Lyle,	11,	0,	Gr. 11: Large Group Act.-Volleyball
+Leung,	Taylor,	11,	0,	Gr. 11: Rhythm and Movement
+De Lorenzi,	Laura,	11,	0,	Gr. 11: Rhythm and Movement
+King,	Melissa,	9,	0,	Gr. 9: Healthy Active Living Ed.
+Jones,	Justin,	9,	0,	Gr. 9: Healthy Active Living Ed.
+Skorupski,	Sean,	9,	0,	Gr. 9: Healthy Active Living Ed.
+Awa,	Joshua,	9,	0,	Gr. 9: Healthy Active Living Ed.
+Whalen,	Cameron,	9,	0,	Gr. 9: Healthy Active Living Ed.
+Wilkie,	Matthew,	9,	0,	Gr. 9: Healthy Active Living Ed.
+Dhindsa,	Monisha,	10,	0,	Gr. 10: Healthy Active Living Ed.
+Paulose,	Joshua,	10,	0,	Gr. 11: Healthy Active Living Ed.
+Klara,	Jessica,	11,	0,	Gr. 10: Healthy Active Living Ed.
+Natale,	Alicia,	11,	0,	Gr. 11 College: Biology
+Edsid,	Michael,	11,	0,	Gr. 11 University: Biology
+Edsid,	Michael,	11,	0,	Gr. 11 University: Chemistry
+Castro,	Andrew,	9,	0,	Gr. 9 Academic: Science
+Speziale,	Salvatore,	9,	0,	Gr. 9 Locally Developed: Science
+Tapawan,	Jacob,	9,	0,	Gr. 9 Applied: Science
+Uddin,	Lamia,	10,	0,	Gr. 10 Academic: Science
+Perera,	Damien,	10,	0,	Gr. 10 Academic: Science
+McGregor,	Thomas,	10,	0,	Gr. 10 Locally Developed: Science
+Lee,	Hayoung,	10,	0,	Gr. 10 Applied: Science
+Bentvelsen,	Jared,	11,	0,	Gr. 11 University: Physics
+Edsid,	Michael,	11,	0,	Gr. 11 University: Physics
+Vassos,	Kara,	10,	0,	Gr. 10: Construction Technology
+D'Souza,	Aden,	11,	0,	Gr. 11: Construction Technology
+Simone,	Adrian,	11,	0,	Gr. 11: Construction Technology
+Sabharwal,	Kanav,	10,	0,	Gr. 10: Exploring Computer Tech.
+Zaidi,	Fatimah,	11,	0,	Gr. 11: Computer Engineering and Tech.
+Uddin,	Lamia,	10,	0,	Gr. 10: Hospitality and Tourism
+Le,	Christie,	10,	0,	Gr. 10: Hospitality and Tourism
+Uthayasangar,	Vithursha,	10,	0,	Gr. 10: Hospitality and Tourism
+Abbas,	Dahlia,	10,	0,	Gr. 10: Hospitality and Tourism
+Mistry,	Niyati,	10,	0,	Gr. 10: Hospitality and Tourism
+Tran,	Carmen,	10,	0,	Gr. 10: Hospitality and Tourism
+Truong,	Christina,	10,	0,	Gr. 10: Hospitality and Tourism
+Bibi,	Amena,	10,	0,	Gr. 10: Hospitality and Tourism
+Petropoulos,	Rachel,	10,	0,	Gr. 10: Hospitality and Tourism
+Thomas,	Tiara,	11,	0,	Gr. 11 College: Hospitality and Tourism
+Wasey,	Adeeba,	11,	0,	Gr. 11 College: Hospitality and Tourism
+Torres,	Olivia,	11,	0,	Gr. 11 College: Hospitality and Tourism
+Tesolin,	Olivia,	10,	0,	Gr. 10: Communications Technology
+Dela Cruz,	Jubel Anne,	10,	0,	Gr. 10: Communications Technology
+Stranges,	Victoria,	10,	0,	Gr. 10: Communications Technology
+Tan,	Cadance,	11,	0,	Gr. 11: Communication Technology
+Dela Cruz,	Armin,	11,	0,	Gr. 11: Communication Technology
+Bognar,	Christopher,	11,	0,	Gr. 11: Communication Technology
+Ahmed,	Attika,	10,	0,	Gr. 10: Transportation Technology
+Caba,	Isaiah,	11,	0,	Gr. 11 College: Transportation Tech.
+Varaday,	Geeth,	11,	0,	Gr. 11 College: Transportation Tech.
+Resendes,	Dylan,	11,	0,	Gr. 11 College: Transportation Tech.
+Jacobs,	Benjamin,	11,	0,	Gr. 11 College: Transportation Tech.
+Correia,	Kyle,	11,	0,	Gr. 11 College: Transportation Tech.
+Latkovic,	Tomislav,	11,	0,	Gr. 11 College: Transportation Tech.
+Bullock,	Brandon,	11,	0,	Gr. 11 College: Transportation Tech.
+Barrington,	Preston,	11,	0,	Gr. 11 College: Transportation Tech.
+Bognar,	Christopher,	11,	0,	Gr. 11 College: Transportation Tech.
+Setten,	Marco,	11,	0,	Gr. 11 College: Transportation Tech.
+Manrique,	Dean Andrew,	11,	0,	Gr. 11 College: Transportation Tech.
+Lall,	Jaskaran,	11,	0,	Gr. 11 College: Transportation Tech.
+Sharma,	Sameer,	11,	0,	Gr. 11 College: Transportation Tech.
+Biggam,	Richard,	11,	0,	Gr. 11 College: Transportation Tech.
+D'Mello,	Nishant,	11,	0,	Gr. 11 College: Transportation Tech.
+Matharoo,	Arjun,	11,	0,	Gr. 11 College: Transportation Tech.
+Gregor-Pearse,	Michael,	11,	0,	Gr. 11 College: Transportation Tech.
+Emeny,	Lucas,	11,	0,	Gr. 11 College: Transportation Tech.
+Hoque,	Yaseen,	11,	0,	Gr. 11 College: Transportation Tech.
+Virdee,	Ranjit,	11,	0,	Gr. 11 College: Transportation Tech.
+Araujo,	Christian,	11,	0,	Gr. 11 College: Transportation Tech.
+Drazic,	Steven,	11,	0,	Gr. 11 College: Transportation Tech.
+Wilson,	William,	11,	0,	Gr. 11 College: Transportation Tech.
+Vacaro,	Kevin,	11,	0,	Gr. 11 College: Transportation Tech.
+Tandingan,	Ian Gabriel,	11,	0,	Gr. 11 College: Transportation Tech.
+Betancur Garces,	Jose,	11,	0,	Gr. 11: Custom Woodworking
+Castrucci,	Chloe,	10,	0,	Gr. 10: Hairstyling and Aesthetics
+Nguyen,	Maryann,	10,	0,	Gr. 10: Hairstyling and Aesthetics
+Le,	Christie,	10,	0,	Gr. 10: Hairstyling and Aesthetics
+Montes,	Kaitlin,	11,	0,	Gr. 11: Hairstyling and Aesthetics
+Divino,	Marielle,	11,	0,	Gr. 11: Cooperative Education
+Manrique,	Dean,	11,	0,	Gr. 11: Cooperative Education
+Fletcher-Zorychta,	Ashley,	11,	0,	Gr. 11: Cooperative Education

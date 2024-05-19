@@ -1,0 +1,157 @@
+Tomljenovic, Nika,	9,	0,	Gr. 9: Dramatic Arts
+Di Ilio, Nicholas,	10,	0,	Gr. 10: Dramatic Arts
+Gerrie, Brittany,	10,	0,	Gr. 10: Dramatic Arts
+Do, Paul,	10,	0,	Gr. 10: Dramatic Arts
+Constant, Jordan,	10,	0,	Gr. 10: Dramatic Arts
+Deleo, Christina,	11,	0,	Gr. 11: Dramatic Arts
+Barrete-Tsaur, Alexander,	9,	0,	Gr. 9: Music
+Illmann, Andrew,	10,	0,	Gr. 10: Music
+Eisa, Monique,	10,	0,	Gr. 10: Music
+Nearing, Ryan,	11,	0,	Gr. 11: Music
+Marotta, Alanna,	9,	0,	Gr. 9: Visual Arts
+Krawczuk, Alexandra,	9,	0,	Gr. 9: Visual Arts
+Trofymowych, Stephanie, 	9,	0,	Gr. 9: Visual Arts
+Joya, Cathleen,	10,	0,	Gr. 10: Visual Arts
+Nguyen, Michael,	11,	0,	Gr. 11: Visual Arts
+Grace Koshy, Sneha,	11,	0,	Gr.11: Financial Accounting Fund.
+Constant, Jordan,	10,	0,	Gr. 10: Introduction to Business
+Lau, Wendy,	11,	0,	Gr. 11: Entrepreneurship
+Lau, Wendy,	11,	0,	Gr. 11: Marketing
+Basso, Andrew,	10,	0,	Gr. 10: I.C.T.-The Digital Environment
+Petrovic, Maja,	10,	0,	Gr. 10: I.C.T.-The Digital Environment
+Hussain, Sally,	9,	0,	Gr. 9 Academic Geography
+Gorgi, Christine,	9,	0,	Gr. 9 Academic Geography
+Fernandes, Kevin,	9,	0,	Gr. 9 Applied Geography
+Cresswell, Jennifer,	9,	0,	Gr. 9 Geography
+Eisa, Monique,	10,	0,	Gr. 10 Academic History
+Hanson, Kash,	10,	0,	 Gr. 10 Locally Dev. History
+Beney, Julia,	10,	0,	Gr. 10 Applied History
+Kiromera, Marine-Celeste,	10,	0,	Gr. 10: Canadian History & Politics
+Lenardon, Ryan,	10,	0,	Gr. 10: Civics
+Pavkovic, Ivan,	10,	0,	Gr.10: Individual and the Economy
+Levy, Christopher,	11,	0,	Gr. 11: Canadian Law Workplace
+Basso, Andrew,	11,	0,	Gr. 11: Canadian Law 
+Aquino, Nikka,	11,	0,	Gr. 11: Media Studies
+Mousa, Ahmad,	9,	0,	Gr. 9: Academic English
+De Melo, Anthony,	9,	0,	Gr. 9: Locally Dev. English
+Levy, Christina,	9,	0,	Gr. 9: Applied English
+Zseder, Natasha,	10,	0,	Gr. 10: Academic English
+Joya, Cathleen,	10,	0,	Gr. 10: Academic English
+West, Pharoh,	10,	0,	Gr. 10: Locally Dev. English
+Pereira, Brenden,	10,	0,	Gr. 10: Locally Dev. English
+Foessel, Andrea,	10,	0,	Gr. 10: Applied English
+Mendez, Nimoy,	11,	0,	Gr. 11: College English
+Matricciano, Luca,	11,	0,	Gr. 11: Workplace English
+Cresswell, Jennifer,	11,	0,	Gr. 11: English
+Pizzolon, Christina,	11,	0,	Gr. 11: University English
+Pavkovic, Ivan,	11,	0,	Gr. 11: University English
+Antunes, Kelly,	11,	0,	Gr. 11: Presentation-Speaking Skills
+Shin, Yoon Sik (Troy),	9,	0,	Gr. 9: English Language Learners
+Passos, Eduardo,	9,	0,	Gr. 9: English Language Learners
+Chen, David,	10,	0,	Gr.10: English Language Learners
+Sidhu, Karanbir,	10,	0,	Gr.10: English Language Learners
+Jocson, Maja,	11,	0,	Gr.11: English Language Learners
+Marquez, Marc Jerome,	11,	0,	Gr.11: English Language Learners
+Petrovic, Maja,	9,	0,	Gr. 9: Academic French
+Moreno, Juliana,	9,	0,	Gr. 9: Applied French
+Eisa, Monique,	10,	0, Gr. 10: Academic French
+Wong-Chun-Sen, Melissa,	11,	0,	Gr. 11: University French
+Eisa, Monique,	10,	0,	Gr. 10: Career Studies
+Bujas, Monica,	10,	0,	Gr. 10: Learning Strategies
+Leo, Albert Jr.,	10,	0,	Gr. 10: Learning Strategies
+Matricciano, Luca,	10,	0,	Gr. 10: Learning Strategies
+Pereira, Brenden,	10,	0,	Gr. 10: Learning Strategies
+Daley, Ieshia,	11,	0,	Gr. 11: Leadership/Peer Tutoring
+Albernaz, Gloria,	11,	0,	Gr. 11: Designing Your Future
+Patel, Shivali,	11,	0,	Gr. 11: Grade 11 Parenting
+Petrovic, Maja,	9,	0,	Gr. 9: Religion
+Ranger, Jacquelyn,	9,	0,	Gr. 9: Locally Dev. Religion
+Eisa, Monique,	10,	0,	Gr. 10: Religion
+Benett, Timmer,	10,	0,	Gr. 10: Locally Dev.Religion
+Medeiros, Iberio,	11,	0,	Gr. 11 College: World Religions 
+Ranalli, Julian,	11,	0,	Gr. 11 College: World Religions 
+Wong-Chun-Sen, Melissa,	11,	0,	Gr. 11 Univ.: World Religions 
+Goredema, Phobies,	11,	0,	Gr. 11 Open: World Religions
+Lau, Wendy,	11,	0,	Gr. 11: Anthropology
+Pavkovic, Ivan,	11,	0,	Gr. 11: Computer Engineering 
+Pavkovic, Ivan,	11,	0,	Gr. 11: Computer Science
+Chiofalo, Christina,	9,	0,	Excellence in Independence
+Wollziefer, Jeffery,	9,	0,	Excellence in Independence
+Wollziefer, Robert,	9,	0,	Excellence in Independence
+Passos, Juliana,	10,	0,	Gr. 10: Italian
+Padron, Alejandra,	10,	0,	Gr. 10: Spanish
+Noboa, Stephanie,	11,	0,	Gr. 11: Spanish
+Bersh, Sarah,	12,	0,	Gr. 12: Spanish
+DeMedeiros, Darryl,	9,	0,	Gr. 9: Locally Dev. Math.
+Matricciano, Luca,	10,	0,	Gr. 10: Locally Dev. Math.
+Mallia, Sebastian,	10,	0,	Gr. 10: Locally Dev. Math.
+de Leon, Candice,	11,	0,	Gr. 11: College Mathematics
+Vieira, Julian,	11,	0,	Gr. 11: College Mathematics
+Ordono, Adalyn,	11,	0,	Gr. 11: Functions-Applications Math.
+Antunes, Kelly,	11,	0,	Gr. 11 Functions-Applications Math.
+Grace Koshy, Sneha,	11,	0,	Gr. 11: Functions-Relations Math.
+Webb, Olivia,	11,	0,	Gr. 11: Workplace Mathematics
+Mourato, Ashley,	11,	0,	Gr. 11: Workplace Mathematics
+Levy, Christina,	9,	0,	Gr. 9: Applied Mathematics
+Ravenna, Alexandro,	9,	0,	Gr. 9: Applied Mathematics
+Medeiros, Andre,	9,	0,	Gr. 9: Applied Mathematics
+Al-Fayyoumi, Sali,	10,	0,	Gr. 10: Applied Mathematics
+Hussain, Sally,	9,	0,	Gr. 9: Academic Mathematics
+Nefulda, John,	10,	0,	Gr. 10: Academic Mathematics
+Persaud, Andy,	11,	0,	Gr.11: Personal-Fitness Activities
+Talbot, Brendon,	11,	0,	Gr.11:Personal-Fitness Activities
+Gilbert, Gabrielle,	11,	0,	Gr.11: Personal-Fitness Activities
+Lundhild, Alexandra,	9,	0,	Gr. 9: Health and Physical Education
+Petrovic, Maja,	9,	0,	Gr. 9: Health and Physical Education
+Buckley, Javier,	9,	0,	Gr. 9: Health and Physical Education
+Diep, Calvin,	9,	0,	Gr. 9: Health and Physical Education
+Ribaric, Christopher,	9,	0,	Gr. 9: Health and Physical Education
+Wolff, Kurt,	9,	0,	Gr. 9: Health and Physical Education
+Looije, April,	10,	0,	Gr. 10: Health and Physical Education
+Nefulda, John,	10,	0,	Gr. 10: Health and Physical Education
+Stanley Cox, Cooper,	10,	0,	Gr. 10: Health and Physical Education
+Collarile, Christiaan,	10,	0,	Gr. 10: Health and Physical Education
+Griarte, Janvir,	10,	0,	Gr. 10: Health and Physical Education
+Thomas, Eric,	10,	0,	Gr. 10: Health and Physical Education
+Jankowski, Marie,	11,	0,	Gr. 11: Healthy-Active Living Ed.
+Andrade, Logan,	11,	0,	Gr. 11: College Biology
+Gorgi, Marina,	11,	0,	Gr. 11: University Biology
+Pizzolon, Christina,	11,	0,	Gr. 11: University Chemistry
+Pavkovic, Ivan,	11,	0,	Gr. 11: University Chemistry
+Diep, Calvin,	9,	0,	Gr. 9: Academic Science
+Hussain, Sally,	9,	0,	Gr. 9: Academic Science
+Menezes, Varun,	9,	0,	Gr. 9: Academic Science
+Matricciano, Luca,	9,	0,	Gr. 9: Locally Developed Science
+Fernandes, Kevin,	9,	0,	Gr. 9: Applied Science
+Pun, Henry,	10,	0,	Gr. 10: Academic Science
+Boutin-Liverpool, Jalen, 	10,	0,	Gr. 10: Applied Science
+Al-Fayyoumi, Sali,	10,	0,	Gr. 10: Applied Science
+Adegun, Deji,	11,	0,	Gr. 11: Workplace Science
+Grace Koshy, Sneha,	11,	0,	Gr. 11: General Science
+Pavkovic, Ivan,	11,	0,	Gr. 11: University Physics
+Frankie, Tyler,	10,	0,	Gr. 10: Construction Technology
+Thuraisingham, Joshua,	10,	0,	Gr. 10: Construction Technology
+Fil, David,	11,	0,	Gr. 11: Construction Technology
+Pranjic, Phillip,	11,	0,	Gr. 11: Construction Technology
+Graham, Samantha,	11,	0,	Gr. 11: Construction Technology
+Geelal, Jai,	10,	0,	Gr.10: Computer Engineering Tech.
+Pacholek, Kamila,	10,	0,	Gr. 10: Hospitality-Tourism Tech.
+Poon, Ellen,	11,	0,	Gr. 11: Hospitality-Tourism Tech.
+Rojas, Gabriela,	11,	0,	Gr. 11: Hospitality-Tourism Tech.
+Pun, Henry,	10,	0,	Gr. 10: Communication Technology
+Spratt, Laura,	11,	0,	Gr. 11: Communication Technology
+Nefulda, John,	10,	0,	Gr. 10: Computer Science
+Ruta, Michael,	10,	0,	Gr. 10: Computer Science
+Gullace, Madison,	10,	0,	Gr. 10: Hairstyling-Esthetics Tech.
+Nadesapillai, Lathica,	10,	0,	Gr. 10: Health-Personal Services Tech.
+Mehari, Salina,	9,	0,	Gr. 9: Integrated Technology-Transp.
+Moysey, David,	9,	0,	Gr. 9: Integrated Technology-Transp.
+Gucciardi, Patrick,	10,	0,	Gr. 10: Transportation Technology
+Yan, HeJie,	10,	0,	Gr. 10: Transportation Technology
+Sutton, Jason,	10,	0,	Gr. 10: Transportation Technology
+Medeiros, Iberio,	11,	0,	Gr. 11: Transportation Technology
+Oliveira, Chantel,	11,	0,	Gr. 11: Transportation Technology
+Que, Tristen,	11,	0,	Gr. 11: Transportation Technology
+Hughes, Bryan,	11,	0,	Gr. 11: Transportation Technology
+Brandon, Philip,	11,	0,	Gr. 11: Transportation Technology
+Hudson, Junior,	11,	0,	Gr. 11: Cooperative Education
